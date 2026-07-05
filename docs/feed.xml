@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
-    <title>Mis articulos en audio</title>
-    <link>https://robertoroseteg-cloud.github.io/desinfo_columnas</link>
-    <description>Articulos de mis feeds RSS convertidos a audio automaticamente.</description>
-    <language>es</language>
-    <itunes:author>Pipeline automatico</itunes:author>
     </item>
   </channel>
 </rss>
