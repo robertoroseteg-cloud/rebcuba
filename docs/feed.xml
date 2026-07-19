@@ -1,6 +1,171 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
+    <title>Mis articulos en audio</title>
+    <link>https://robertoroseteg-cloud.github.io/rebcuba</link>
+    <description>Articulos de mis feeds RSS convertidos a audio automaticamente.</description>
+    <language>es</language>
+    <itunes:author>Pipeline automatico</itunes:author>
+    
+    <item>
+      <title>Encuentro Estatal de Solidaridad con Cuba lleva la denuncia del bloqueo a la Semana Negra de Gijón</title>
+      <description>Cuba – Rebelion — https://rebelion.org/encuentro-estatal-de-solidaridad-con-cuba-lleva-la-denuncia-del-bloqueo-a-la-semana-negra-de-gijon/</description>
+      <link>https://rebelion.org/encuentro-estatal-de-solidaridad-con-cuba-lleva-la-denuncia-del-bloqueo-a-la-semana-negra-de-gijon/</link>
+      <guid isPermaLink="false">b37baea9d296e558</guid>
+      <pubDate>Sun, 19 Jul 2026 07:12:54 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/b37baea9d296e558.mp3" length="7296480" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Proisraelíes y cubanoamericanos: Marco Rubio y sus inversionistas</title>
+      <description>Cuba – Rebelion — https://rebelion.org/proisraelies-y-cubanoamericanos-marco-rubio-y-sus-inversionistas/</description>
+      <link>https://rebelion.org/proisraelies-y-cubanoamericanos-marco-rubio-y-sus-inversionistas/</link>
+      <guid isPermaLink="false">150afd0603cfc0be</guid>
+      <pubDate>Sun, 19 Jul 2026 07:10:53 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/150afd0603cfc0be.mp3" length="4094784" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Turismo cubano: las medidas que cambian sus reglas desde 2026</title>
+      <description>Cuba – Rebelion — https://rebelion.org/turismo-cubano-las-medidas-que-cambian-sus-reglas-desde-2026/</description>
+      <link>https://rebelion.org/turismo-cubano-las-medidas-que-cambian-sus-reglas-desde-2026/</link>
+      <guid isPermaLink="false">d846819233e12bc6</guid>
+      <pubDate>Sun, 19 Jul 2026 07:09:59 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/d846819233e12bc6.mp3" length="3428208" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>El bloqueo criminal y genocida asfixia y mata de manera silenciosa</title>
+      <description>Cuba – Rebelion — https://rebelion.org/el-bloqueo-criminal-y-genocida-asfixia-y-mata-de-manera-silenciosa/</description>
+      <link>https://rebelion.org/el-bloqueo-criminal-y-genocida-asfixia-y-mata-de-manera-silenciosa/</link>
+      <guid isPermaLink="false">a7b3ccbb8560c86b</guid>
+      <pubDate>Sun, 19 Jul 2026 07:09:17 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/a7b3ccbb8560c86b.mp3" length="3982464" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>El Gobierno cubano detalla la reforma empresarial y propone una «alta interrelación» entre los sectores público y privado</title>
+      <description>Cuba – Rebelion — https://rebelion.org/el-gobierno-cubano-detalla-la-reforma-empresarial-y-propone-una-alta-interrelacion-entre-los-sectores-publico-y-privado/</description>
+      <link>https://rebelion.org/el-gobierno-cubano-detalla-la-reforma-empresarial-y-propone-una-alta-interrelacion-entre-los-sectores-publico-y-privado/</link>
+      <guid isPermaLink="false">0ff8166ba5eac747</guid>
+      <pubDate>Sun, 19 Jul 2026 07:08:38 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/0ff8166ba5eac747.mp3" length="2587968" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Sartre y la revolución cubana</title>
+      <description>Cuba – Rebelion — https://rebelion.org/sartre-y-la-revolucion-cubana/</description>
+      <link>https://rebelion.org/sartre-y-la-revolucion-cubana/</link>
+      <guid isPermaLink="false">98c92f0fd8c48085</guid>
+      <pubDate>Sun, 19 Jul 2026 07:08:09 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/98c92f0fd8c48085.mp3" length="6600960" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Bloqueo, asedio y transformación socialista (I)</title>
+      <description>Cuba – Rebelion — https://rebelion.org/bloqueo-asedio-y-transformacion-socialista-i/</description>
+      <link>https://rebelion.org/bloqueo-asedio-y-transformacion-socialista-i/</link>
+      <guid isPermaLink="false">69b8e9b7b69900e6</guid>
+      <pubDate>Sun, 19 Jul 2026 07:06:59 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/69b8e9b7b69900e6.mp3" length="5593248" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>¿Cuba, camino al capitalismo?</title>
+      <description>Cuba – Rebelion — https://rebelion.org/cuba-camino-al-capitalismo/</description>
+      <link>https://rebelion.org/cuba-camino-al-capitalismo/</link>
+      <guid isPermaLink="false">d49875b732d4ae47</guid>
+      <pubDate>Sun, 19 Jul 2026 07:06:05 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/d49875b732d4ae47.mp3" length="1914624" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Bloqueo, asedio y transformación socialista (II)</title>
+      <description>Cuba – Rebelion — https://rebelion.org/bloqueo-asedio-y-transformacion-socialista-ii/</description>
+      <link>https://rebelion.org/bloqueo-asedio-y-transformacion-socialista-ii/</link>
+      <guid isPermaLink="false">9a7124293f6877ab</guid>
+      <pubDate>Sun, 19 Jul 2026 07:05:43 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/9a7124293f6877ab.mp3" length="3100608" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Bloqueo, asedio y transformación socialista (III)</title>
+      <description>Cuba – Rebelion — https://rebelion.org/bloqueo-asedio-y-transformacion-socialista-iii/</description>
+      <link>https://rebelion.org/bloqueo-asedio-y-transformacion-socialista-iii/</link>
+      <guid isPermaLink="false">fc5f3a78e4555e7e</guid>
+      <pubDate>Sun, 19 Jul 2026 07:04:59 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/fc5f3a78e4555e7e.mp3" length="6805296" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Zulema, la intrépida “Claudia”</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/zulema-la-intrepida-claudia/</description>
+      <link>https://desinformemonos.org/zulema-la-intrepida-claudia/</link>
+      <guid isPermaLink="false">7c8d7b4aa7411b09</guid>
+      <pubDate>Sun, 05 Jul 2026 07:18:49 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/7c8d7b4aa7411b09.mp3" length="5579136" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Las guerras por Guerrero</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/las-guerras-por-guerrero-2/</description>
+      <link>https://desinformemonos.org/las-guerras-por-guerrero-2/</link>
+      <guid isPermaLink="false">b9c7c02dd55c5ef7</guid>
+      <pubDate>Sun, 05 Jul 2026 07:18:05 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/b9c7c02dd55c5ef7.mp3" length="3403296" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Cuando el capital invocó a la patria fue para colonizar territorio mapuche</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/cuando-el-capital-invoco-a-la-patria-fue-para-colonizar-territorio-mapuche/</description>
+      <link>https://desinformemonos.org/cuando-el-capital-invoco-a-la-patria-fue-para-colonizar-territorio-mapuche/</link>
+      <guid isPermaLink="false">0476f85ad805e9dc</guid>
+      <pubDate>Sun, 05 Jul 2026 07:17:24 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/0476f85ad805e9dc.mp3" length="3473856" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Chile y Argentina: Dos Estados contra un mismo territorio (fronteras que se derriten al toque del capital)</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/chile-y-argentina-dos-estados-contra-un-mismo-territorio-fronteras-que-se-derriten-al-toque-del-capital/</description>
+      <link>https://desinformemonos.org/chile-y-argentina-dos-estados-contra-un-mismo-territorio-fronteras-que-se-derriten-al-toque-del-capital/</link>
+      <guid isPermaLink="false">93288eccb26a0137</guid>
+      <pubDate>Sun, 05 Jul 2026 07:16:52 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/93288eccb26a0137.mp3" length="1488240" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Pero dos lo zarandeaban para que se callara</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/pero-dos-lo-zarandeaban-para-que-se-callara/</description>
+      <link>https://desinformemonos.org/pero-dos-lo-zarandeaban-para-que-se-callara/</link>
+      <guid isPermaLink="false">2a34cb5da8e007d8</guid>
+      <pubDate>Sun, 05 Jul 2026 07:16:35 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/2a34cb5da8e007d8.mp3" length="3647376" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Violencia fatal e impunidad contra pueblos indígenas en Paraguay</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/violencia-fatal-e-impunidad-contra-pueblos-indigenas-en-paraguay/</description>
+      <link>https://desinformemonos.org/violencia-fatal-e-impunidad-contra-pueblos-indigenas-en-paraguay/</link>
+      <guid isPermaLink="false">bd51fc61a35596c8</guid>
+      <pubDate>Sun, 05 Jul 2026 07:15:58 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/bd51fc61a35596c8.mp3" length="1241856" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Lo político en Cecosesola</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/lo-politico-en-cecosesola/</description>
+      <link>https://desinformemonos.org/lo-politico-en-cecosesola/</link>
+      <guid isPermaLink="false">731770e3cc47abd7</guid>
+      <pubDate>Sun, 05 Jul 2026 07:15:50 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/731770e3cc47abd7.mp3" length="1417824" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Maternidades en espera: ser madre y solicitar asilo en México</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/maternidades-en-espera-ser-madre-y-solicitar-asilo-en-mexico/</description>
+      <link>https://desinformemonos.org/maternidades-en-espera-ser-madre-y-solicitar-asilo-en-mexico/</link>
+      <guid isPermaLink="false">aa0cd6c5f0b33f27</guid>
+      <pubDate>Sun, 05 Jul 2026 07:15:37 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/aa0cd6c5f0b33f27.mp3" length="2482848" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Del plan Colombia al Plan Ecuador. Reconfigurando la arquitectura imperial</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/del-plan-colombia-al-plan-ecuador-reconfigurando-la-arquitectura-imperial/</description>
+      <link>https://desinformemonos.org/del-plan-colombia-al-plan-ecuador-reconfigurando-la-arquitectura-imperial/</link>
+      <guid isPermaLink="false">599f2175eaa58998</guid>
+      <pubDate>Sun, 05 Jul 2026 07:15:16 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/599f2175eaa58998.mp3" length="4633776" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>UNESCO, GEF, CAF y el Acuífero Guaraní. Un nuevo requerimiento sin agua bendita</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/unesco-gef-caf-y-el-acuifero-guarani-un-nuevo-requerimiento-sin-agua-bendita/</description>
+      <link>https://desinformemonos.org/unesco-gef-caf-y-el-acuifero-guarani-un-nuevo-requerimiento-sin-agua-bendita/</link>
+      <guid isPermaLink="false">dbfeb9bd6a06d9f0</guid>
+      <pubDate>Sun, 05 Jul 2026 07:14:31 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/dbfeb9bd6a06d9f0.mp3" length="1661328" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
