@@ -8,6 +8,22 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Treinta años de humanidad: el legado de Fidel en Gambia</title>
+      <description>Cuba – Rebelion — https://rebelion.org/treinta-anos-de-humanidad-el-legado-de-fidel-en-gambia/</description>
+      <link>https://rebelion.org/treinta-anos-de-humanidad-el-legado-de-fidel-en-gambia/</link>
+      <guid isPermaLink="false">a1542202e937916e</guid>
+      <pubDate>Wed, 22 Jul 2026 17:03:42 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/a1542202e937916e.mp3" length="706032" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Para caminar junto a Fidel</title>
+      <description>Cuba – Rebelion — https://rebelion.org/para-caminar-junto-a-fidel/</description>
+      <link>https://rebelion.org/para-caminar-junto-a-fidel/</link>
+      <guid isPermaLink="false">9c162d8f6e3f7bda</guid>
+      <pubDate>Wed, 22 Jul 2026 17:03:30 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/9c162d8f6e3f7bda.mp3" length="1693872" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Encuentro Estatal de Solidaridad con Cuba lleva la denuncia del bloqueo a la Semana Negra de Gijón</title>
       <description>Cuba – Rebelion — https://rebelion.org/encuentro-estatal-de-solidaridad-con-cuba-lleva-la-denuncia-del-bloqueo-a-la-semana-negra-de-gijon/</description>
       <link>https://rebelion.org/encuentro-estatal-de-solidaridad-con-cuba-lleva-la-denuncia-del-bloqueo-a-la-semana-negra-de-gijon/</link>
@@ -150,22 +166,6 @@
       <guid isPermaLink="false">aa0cd6c5f0b33f27</guid>
       <pubDate>Sun, 05 Jul 2026 07:15:37 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/aa0cd6c5f0b33f27.mp3" length="2482848" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Del plan Colombia al Plan Ecuador. Reconfigurando la arquitectura imperial</title>
-      <description>Columnas – Desinformémonos — https://desinformemonos.org/del-plan-colombia-al-plan-ecuador-reconfigurando-la-arquitectura-imperial/</description>
-      <link>https://desinformemonos.org/del-plan-colombia-al-plan-ecuador-reconfigurando-la-arquitectura-imperial/</link>
-      <guid isPermaLink="false">599f2175eaa58998</guid>
-      <pubDate>Sun, 05 Jul 2026 07:15:16 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/599f2175eaa58998.mp3" length="4633776" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>UNESCO, GEF, CAF y el Acuífero Guaraní. Un nuevo requerimiento sin agua bendita</title>
-      <description>Columnas – Desinformémonos — https://desinformemonos.org/unesco-gef-caf-y-el-acuifero-guarani-un-nuevo-requerimiento-sin-agua-bendita/</description>
-      <link>https://desinformemonos.org/unesco-gef-caf-y-el-acuifero-guarani-un-nuevo-requerimiento-sin-agua-bendita/</link>
-      <guid isPermaLink="false">dbfeb9bd6a06d9f0</guid>
-      <pubDate>Sun, 05 Jul 2026 07:14:31 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/dbfeb9bd6a06d9f0.mp3" length="1661328" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
