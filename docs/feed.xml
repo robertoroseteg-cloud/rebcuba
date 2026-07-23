@@ -8,6 +8,22 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Contra Cuba y todos los que no se someten</title>
+      <description>Cuba – Rebelion — https://rebelion.org/contra-cuba-y-todos-los-que-no-se-someten/</description>
+      <link>https://rebelion.org/contra-cuba-y-todos-los-que-no-se-someten/</link>
+      <guid isPermaLink="false">3207e460a57b6bf0</guid>
+      <pubDate>Thu, 23 Jul 2026 17:08:55 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/3207e460a57b6bf0.mp3" length="2504736" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Cuba resiste una guerra no convencional</title>
+      <description>Cuba – Rebelion — https://rebelion.org/nos-intentan-agredir-desde-el-norte/</description>
+      <link>https://rebelion.org/nos-intentan-agredir-desde-el-norte/</link>
+      <guid isPermaLink="false">091b34de3cd31ad2</guid>
+      <pubDate>Thu, 23 Jul 2026 17:08:21 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/091b34de3cd31ad2.mp3" length="12178224" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Treinta años de humanidad: el legado de Fidel en Gambia</title>
       <description>Cuba – Rebelion — https://rebelion.org/treinta-anos-de-humanidad-el-legado-de-fidel-en-gambia/</description>
       <link>https://rebelion.org/treinta-anos-de-humanidad-el-legado-de-fidel-en-gambia/</link>
@@ -150,22 +166,6 @@
       <guid isPermaLink="false">bd51fc61a35596c8</guid>
       <pubDate>Sun, 05 Jul 2026 07:15:58 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/bd51fc61a35596c8.mp3" length="1241856" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Lo político en Cecosesola</title>
-      <description>Columnas – Desinformémonos — https://desinformemonos.org/lo-politico-en-cecosesola/</description>
-      <link>https://desinformemonos.org/lo-politico-en-cecosesola/</link>
-      <guid isPermaLink="false">731770e3cc47abd7</guid>
-      <pubDate>Sun, 05 Jul 2026 07:15:50 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/731770e3cc47abd7.mp3" length="1417824" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Maternidades en espera: ser madre y solicitar asilo en México</title>
-      <description>Columnas – Desinformémonos — https://desinformemonos.org/maternidades-en-espera-ser-madre-y-solicitar-asilo-en-mexico/</description>
-      <link>https://desinformemonos.org/maternidades-en-espera-ser-madre-y-solicitar-asilo-en-mexico/</link>
-      <guid isPermaLink="false">aa0cd6c5f0b33f27</guid>
-      <pubDate>Sun, 05 Jul 2026 07:15:37 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/aa0cd6c5f0b33f27.mp3" length="2482848" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
