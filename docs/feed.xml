@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>EE.UU. contra Cuba: el motor de una «izquierda terrorista» mundial</title>
+      <description>Cuba – Rebelion — https://rebelion.org/ee-uu-contra-cuba-el-motor-de-una-izquierda-terrorista-mundial/</description>
+      <link>https://rebelion.org/ee-uu-contra-cuba-el-motor-de-una-izquierda-terrorista-mundial/</link>
+      <guid isPermaLink="false">ab271e5dce49b9e8</guid>
+      <pubDate>Fri, 24 Jul 2026 18:03:47 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/ab271e5dce49b9e8.mp3" length="2904336" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Contra Cuba y todos los que no se someten</title>
       <description>Cuba – Rebelion — https://rebelion.org/contra-cuba-y-todos-los-que-no-se-someten/</description>
       <link>https://rebelion.org/contra-cuba-y-todos-los-que-no-se-someten/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">2a34cb5da8e007d8</guid>
       <pubDate>Sun, 05 Jul 2026 07:16:35 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/2a34cb5da8e007d8.mp3" length="3647376" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Violencia fatal e impunidad contra pueblos indígenas en Paraguay</title>
-      <description>Columnas – Desinformémonos — https://desinformemonos.org/violencia-fatal-e-impunidad-contra-pueblos-indigenas-en-paraguay/</description>
-      <link>https://desinformemonos.org/violencia-fatal-e-impunidad-contra-pueblos-indigenas-en-paraguay/</link>
-      <guid isPermaLink="false">bd51fc61a35596c8</guid>
-      <pubDate>Sun, 05 Jul 2026 07:15:58 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/bd51fc61a35596c8.mp3" length="1241856" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
