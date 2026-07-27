@@ -1,5 +1,23 @@
 [
   {
+    "id": "12333baa925f41e3",
+    "titulo": "Una educación desde y al servicio del pueblo",
+    "fuente": "Cuba – Rebelion",
+    "enlace": "https://rebelion.org/cuba-una-educacion-desde-y-al-servicio-del-pueblo/",
+    "archivo": "12333baa925f41e3.mp3",
+    "bytes": 2360448,
+    "timestamp": 1785176019
+  },
+  {
+    "id": "13cf09081fb4ae71",
+    "titulo": "La farsa del informe contra Cuba",
+    "fuente": "Cuba – Rebelion",
+    "enlace": "https://rebelion.org/la-farsa-del-informe-contra-cuba/",
+    "archivo": "13cf09081fb4ae71.mp3",
+    "bytes": 2716992,
+    "timestamp": 1785175984
+  },
+  {
     "id": "ab271e5dce49b9e8",
     "titulo": "EE.UU. contra Cuba: el motor de una «izquierda terrorista» mundial",
     "fuente": "Cuba – Rebelion",
@@ -160,23 +178,5 @@
     "archivo": "0476f85ad805e9dc.mp3",
     "bytes": 3473856,
     "timestamp": 1783235844
-  },
-  {
-    "id": "93288eccb26a0137",
-    "titulo": "Chile y Argentina: Dos Estados contra un mismo territorio (fronteras que se derriten al toque del capital)",
-    "fuente": "Columnas – Desinformémonos",
-    "enlace": "https://desinformemonos.org/chile-y-argentina-dos-estados-contra-un-mismo-territorio-fronteras-que-se-derriten-al-toque-del-capital/",
-    "archivo": "93288eccb26a0137.mp3",
-    "bytes": 1488240,
-    "timestamp": 1783235812
-  },
-  {
-    "id": "2a34cb5da8e007d8",
-    "titulo": "Pero dos lo zarandeaban para que se callara",
-    "fuente": "Columnas – Desinformémonos",
-    "enlace": "https://desinformemonos.org/pero-dos-lo-zarandeaban-para-que-se-callara/",
-    "archivo": "2a34cb5da8e007d8.mp3",
-    "bytes": 3647376,
-    "timestamp": 1783235795
   }
 ]

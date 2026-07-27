@@ -8,6 +8,22 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Una educación desde y al servicio del pueblo</title>
+      <description>Cuba – Rebelion — https://rebelion.org/cuba-una-educacion-desde-y-al-servicio-del-pueblo/</description>
+      <link>https://rebelion.org/cuba-una-educacion-desde-y-al-servicio-del-pueblo/</link>
+      <guid isPermaLink="false">12333baa925f41e3</guid>
+      <pubDate>Mon, 27 Jul 2026 18:13:39 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/12333baa925f41e3.mp3" length="2360448" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>La farsa del informe contra Cuba</title>
+      <description>Cuba – Rebelion — https://rebelion.org/la-farsa-del-informe-contra-cuba/</description>
+      <link>https://rebelion.org/la-farsa-del-informe-contra-cuba/</link>
+      <guid isPermaLink="false">13cf09081fb4ae71</guid>
+      <pubDate>Mon, 27 Jul 2026 18:13:04 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/13cf09081fb4ae71.mp3" length="2716992" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>EE.UU. contra Cuba: el motor de una «izquierda terrorista» mundial</title>
       <description>Cuba – Rebelion — https://rebelion.org/ee-uu-contra-cuba-el-motor-de-una-izquierda-terrorista-mundial/</description>
       <link>https://rebelion.org/ee-uu-contra-cuba-el-motor-de-una-izquierda-terrorista-mundial/</link>
@@ -150,22 +166,6 @@
       <guid isPermaLink="false">0476f85ad805e9dc</guid>
       <pubDate>Sun, 05 Jul 2026 07:17:24 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/0476f85ad805e9dc.mp3" length="3473856" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Chile y Argentina: Dos Estados contra un mismo territorio (fronteras que se derriten al toque del capital)</title>
-      <description>Columnas – Desinformémonos — https://desinformemonos.org/chile-y-argentina-dos-estados-contra-un-mismo-territorio-fronteras-que-se-derriten-al-toque-del-capital/</description>
-      <link>https://desinformemonos.org/chile-y-argentina-dos-estados-contra-un-mismo-territorio-fronteras-que-se-derriten-al-toque-del-capital/</link>
-      <guid isPermaLink="false">93288eccb26a0137</guid>
-      <pubDate>Sun, 05 Jul 2026 07:16:52 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/93288eccb26a0137.mp3" length="1488240" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Pero dos lo zarandeaban para que se callara</title>
-      <description>Columnas – Desinformémonos — https://desinformemonos.org/pero-dos-lo-zarandeaban-para-que-se-callara/</description>
-      <link>https://desinformemonos.org/pero-dos-lo-zarandeaban-para-que-se-callara/</link>
-      <guid isPermaLink="false">2a34cb5da8e007d8</guid>
-      <pubDate>Sun, 05 Jul 2026 07:16:35 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/2a34cb5da8e007d8.mp3" length="3647376" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
