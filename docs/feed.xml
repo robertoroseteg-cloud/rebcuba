@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Cuba y la solidaridad antiimperialista</title>
+      <description>Cuba – Rebelion — https://rebelion.org/cuba-y-la-solidaridad-antiimperialista/</description>
+      <link>https://rebelion.org/cuba-y-la-solidaridad-antiimperialista/</link>
+      <guid isPermaLink="false">69141fd733b11c17</guid>
+      <pubDate>Mon, 03 Aug 2026 15:26:03 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/69141fd733b11c17.mp3" length="2693088" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Una educación desde y al servicio del pueblo</title>
       <description>Cuba – Rebelion — https://rebelion.org/cuba-una-educacion-desde-y-al-servicio-del-pueblo/</description>
       <link>https://rebelion.org/cuba-una-educacion-desde-y-al-servicio-del-pueblo/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">b9c7c02dd55c5ef7</guid>
       <pubDate>Sun, 05 Jul 2026 07:18:05 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/b9c7c02dd55c5ef7.mp3" length="3403296" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Cuando el capital invocó a la patria fue para colonizar territorio mapuche</title>
-      <description>Columnas – Desinformémonos — https://desinformemonos.org/cuando-el-capital-invoco-a-la-patria-fue-para-colonizar-territorio-mapuche/</description>
-      <link>https://desinformemonos.org/cuando-el-capital-invoco-a-la-patria-fue-para-colonizar-territorio-mapuche/</link>
-      <guid isPermaLink="false">0476f85ad805e9dc</guid>
-      <pubDate>Sun, 05 Jul 2026 07:17:24 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/0476f85ad805e9dc.mp3" length="3473856" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
