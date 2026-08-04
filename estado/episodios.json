@@ -1,5 +1,23 @@
 [
   {
+    "id": "021d43d72ee67728",
+    "titulo": "Una guerra sin bombas",
+    "fuente": "Cuba – Rebelion",
+    "enlace": "https://rebelion.org/una-guerra-sin-bombas/",
+    "archivo": "021d43d72ee67728.mp3",
+    "bytes": 2505168,
+    "timestamp": 1785855704
+  },
+  {
+    "id": "b86e37725bedc6ec",
+    "titulo": "Logros en desarrollo humano y solidaridad internacional",
+    "fuente": "Cuba – Rebelion",
+    "enlace": "https://rebelion.org/logros-en-desarrollo-humano-y-solidaridad-internacional/",
+    "archivo": "b86e37725bedc6ec.mp3",
+    "bytes": 6633648,
+    "timestamp": 1785855687
+  },
+  {
     "id": "69141fd733b11c17",
     "titulo": "Cuba y la solidaridad antiimperialista",
     "fuente": "Cuba – Rebelion",
@@ -160,23 +178,5 @@
     "archivo": "fc5f3a78e4555e7e.mp3",
     "bytes": 6805296,
     "timestamp": 1784444699
-  },
-  {
-    "id": "7c8d7b4aa7411b09",
-    "titulo": "Zulema, la intrépida “Claudia”",
-    "fuente": "Columnas – Desinformémonos",
-    "enlace": "https://desinformemonos.org/zulema-la-intrepida-claudia/",
-    "archivo": "7c8d7b4aa7411b09.mp3",
-    "bytes": 5579136,
-    "timestamp": 1783235929
-  },
-  {
-    "id": "b9c7c02dd55c5ef7",
-    "titulo": "Las guerras por Guerrero",
-    "fuente": "Columnas – Desinformémonos",
-    "enlace": "https://desinformemonos.org/las-guerras-por-guerrero-2/",
-    "archivo": "b9c7c02dd55c5ef7.mp3",
-    "bytes": 3403296,
-    "timestamp": 1783235885
   }
 ]

@@ -8,6 +8,22 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Una guerra sin bombas</title>
+      <description>Cuba – Rebelion — https://rebelion.org/una-guerra-sin-bombas/</description>
+      <link>https://rebelion.org/una-guerra-sin-bombas/</link>
+      <guid isPermaLink="false">021d43d72ee67728</guid>
+      <pubDate>Tue, 04 Aug 2026 15:01:44 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/021d43d72ee67728.mp3" length="2505168" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Logros en desarrollo humano y solidaridad internacional</title>
+      <description>Cuba – Rebelion — https://rebelion.org/logros-en-desarrollo-humano-y-solidaridad-internacional/</description>
+      <link>https://rebelion.org/logros-en-desarrollo-humano-y-solidaridad-internacional/</link>
+      <guid isPermaLink="false">b86e37725bedc6ec</guid>
+      <pubDate>Tue, 04 Aug 2026 15:01:27 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/b86e37725bedc6ec.mp3" length="6633648" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Cuba y la solidaridad antiimperialista</title>
       <description>Cuba – Rebelion — https://rebelion.org/cuba-y-la-solidaridad-antiimperialista/</description>
       <link>https://rebelion.org/cuba-y-la-solidaridad-antiimperialista/</link>
@@ -150,22 +166,6 @@
       <guid isPermaLink="false">fc5f3a78e4555e7e</guid>
       <pubDate>Sun, 19 Jul 2026 07:04:59 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/fc5f3a78e4555e7e.mp3" length="6805296" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Zulema, la intrépida “Claudia”</title>
-      <description>Columnas – Desinformémonos — https://desinformemonos.org/zulema-la-intrepida-claudia/</description>
-      <link>https://desinformemonos.org/zulema-la-intrepida-claudia/</link>
-      <guid isPermaLink="false">7c8d7b4aa7411b09</guid>
-      <pubDate>Sun, 05 Jul 2026 07:18:49 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/7c8d7b4aa7411b09.mp3" length="5579136" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Las guerras por Guerrero</title>
-      <description>Columnas – Desinformémonos — https://desinformemonos.org/las-guerras-por-guerrero-2/</description>
-      <link>https://desinformemonos.org/las-guerras-por-guerrero-2/</link>
-      <guid isPermaLink="false">b9c7c02dd55c5ef7</guid>
-      <pubDate>Sun, 05 Jul 2026 07:18:05 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/b9c7c02dd55c5ef7.mp3" length="3403296" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
