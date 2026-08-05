@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Los memes y toda la fanfarria vergonzante</title>
+      <description>Cuba – Rebelion — https://rebelion.org/los-memes-y-toda-la-fanfarria-vergonzante/</description>
+      <link>https://rebelion.org/los-memes-y-toda-la-fanfarria-vergonzante/</link>
+      <guid isPermaLink="false">9beaef469479a652</guid>
+      <pubDate>Wed, 05 Aug 2026 14:56:10 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/9beaef469479a652.mp3" length="11014848" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Una guerra sin bombas</title>
       <description>Cuba – Rebelion — https://rebelion.org/una-guerra-sin-bombas/</description>
       <link>https://rebelion.org/una-guerra-sin-bombas/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">9a7124293f6877ab</guid>
       <pubDate>Sun, 19 Jul 2026 07:05:43 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/9a7124293f6877ab.mp3" length="3100608" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Bloqueo, asedio y transformación socialista (III)</title>
-      <description>Cuba – Rebelion — https://rebelion.org/bloqueo-asedio-y-transformacion-socialista-iii/</description>
-      <link>https://rebelion.org/bloqueo-asedio-y-transformacion-socialista-iii/</link>
-      <guid isPermaLink="false">fc5f3a78e4555e7e</guid>
-      <pubDate>Sun, 19 Jul 2026 07:04:59 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/fc5f3a78e4555e7e.mp3" length="6805296" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
