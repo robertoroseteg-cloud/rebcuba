@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>¿Permitirán gobiernos amigos un genocidio contra Cuba?</title>
+      <description>Cuba – Rebelion — https://rebelion.org/permitiran-gobiernos-amigos-un-genocidio-contra-cuba/</description>
+      <link>https://rebelion.org/permitiran-gobiernos-amigos-un-genocidio-contra-cuba/</link>
+      <guid isPermaLink="false">04dc6b5b231c69c0</guid>
+      <pubDate>Fri, 07 Aug 2026 13:50:13 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/04dc6b5b231c69c0.mp3" length="1945296" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Los memes y toda la fanfarria vergonzante</title>
       <description>Cuba – Rebelion — https://rebelion.org/los-memes-y-toda-la-fanfarria-vergonzante/</description>
       <link>https://rebelion.org/los-memes-y-toda-la-fanfarria-vergonzante/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">d49875b732d4ae47</guid>
       <pubDate>Sun, 19 Jul 2026 07:06:05 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/d49875b732d4ae47.mp3" length="1914624" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Bloqueo, asedio y transformación socialista (II)</title>
-      <description>Cuba – Rebelion — https://rebelion.org/bloqueo-asedio-y-transformacion-socialista-ii/</description>
-      <link>https://rebelion.org/bloqueo-asedio-y-transformacion-socialista-ii/</link>
-      <guid isPermaLink="false">9a7124293f6877ab</guid>
-      <pubDate>Sun, 19 Jul 2026 07:05:43 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/9a7124293f6877ab.mp3" length="3100608" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
