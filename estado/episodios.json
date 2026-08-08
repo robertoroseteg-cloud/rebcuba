@@ -1,5 +1,14 @@
 [
   {
+    "id": "7a8f69e5eed9401a",
+    "titulo": "Fidel Castro sobre el amor, la ética y el marxismo",
+    "fuente": "Cuba – Rebelion",
+    "enlace": "https://rebelion.org/fidel-castro-sobre-el-amor-la-etica-y-el-marxismo/",
+    "archivo": "7a8f69e5eed9401a.mp3",
+    "bytes": 17901216,
+    "timestamp": 1786195704
+  },
+  {
     "id": "04dc6b5b231c69c0",
     "titulo": "¿Permitirán gobiernos amigos un genocidio contra Cuba?",
     "fuente": "Cuba – Rebelion",
@@ -169,14 +178,5 @@
     "archivo": "69b8e9b7b69900e6.mp3",
     "bytes": 5593248,
     "timestamp": 1784444819
-  },
-  {
-    "id": "d49875b732d4ae47",
-    "titulo": "¿Cuba, camino al capitalismo?",
-    "fuente": "Cuba – Rebelion",
-    "enlace": "https://rebelion.org/cuba-camino-al-capitalismo/",
-    "archivo": "d49875b732d4ae47.mp3",
-    "bytes": 1914624,
-    "timestamp": 1784444765
   }
 ]

@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Fidel Castro sobre el amor, la ética y el marxismo</title>
+      <description>Cuba – Rebelion — https://rebelion.org/fidel-castro-sobre-el-amor-la-etica-y-el-marxismo/</description>
+      <link>https://rebelion.org/fidel-castro-sobre-el-amor-la-etica-y-el-marxismo/</link>
+      <guid isPermaLink="false">7a8f69e5eed9401a</guid>
+      <pubDate>Sat, 08 Aug 2026 13:28:24 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/7a8f69e5eed9401a.mp3" length="17901216" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>¿Permitirán gobiernos amigos un genocidio contra Cuba?</title>
       <description>Cuba – Rebelion — https://rebelion.org/permitiran-gobiernos-amigos-un-genocidio-contra-cuba/</description>
       <link>https://rebelion.org/permitiran-gobiernos-amigos-un-genocidio-contra-cuba/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">69b8e9b7b69900e6</guid>
       <pubDate>Sun, 19 Jul 2026 07:06:59 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/69b8e9b7b69900e6.mp3" length="5593248" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>¿Cuba, camino al capitalismo?</title>
-      <description>Cuba – Rebelion — https://rebelion.org/cuba-camino-al-capitalismo/</description>
-      <link>https://rebelion.org/cuba-camino-al-capitalismo/</link>
-      <guid isPermaLink="false">d49875b732d4ae47</guid>
-      <pubDate>Sun, 19 Jul 2026 07:06:05 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/d49875b732d4ae47.mp3" length="1914624" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
