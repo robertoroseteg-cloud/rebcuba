@@ -1,5 +1,14 @@
 [
   {
+    "id": "db24b560c93cd4d1",
+    "titulo": "Entre Martí y Marx: la síntesis que hizo invencible a Cuba",
+    "fuente": "Cuba – Rebelion",
+    "enlace": "https://rebelion.org/entre-marti-y-marx-la-sintesis-que-hizo-invencible-a-cuba/",
+    "archivo": "db24b560c93cd4d1.mp3",
+    "bytes": 17075232,
+    "timestamp": 1786456669
+  },
+  {
     "id": "7a8f69e5eed9401a",
     "titulo": "Fidel Castro sobre el amor, la ética y el marxismo",
     "fuente": "Cuba – Rebelion",
@@ -169,14 +178,5 @@
     "archivo": "98c92f0fd8c48085.mp3",
     "bytes": 6600960,
     "timestamp": 1784444889
-  },
-  {
-    "id": "69b8e9b7b69900e6",
-    "titulo": "Bloqueo, asedio y transformación socialista (I)",
-    "fuente": "Cuba – Rebelion",
-    "enlace": "https://rebelion.org/bloqueo-asedio-y-transformacion-socialista-i/",
-    "archivo": "69b8e9b7b69900e6.mp3",
-    "bytes": 5593248,
-    "timestamp": 1784444819
   }
 ]

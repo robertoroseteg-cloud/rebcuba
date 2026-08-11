@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Entre Martí y Marx: la síntesis que hizo invencible a Cuba</title>
+      <description>Cuba – Rebelion — https://rebelion.org/entre-marti-y-marx-la-sintesis-que-hizo-invencible-a-cuba/</description>
+      <link>https://rebelion.org/entre-marti-y-marx-la-sintesis-que-hizo-invencible-a-cuba/</link>
+      <guid isPermaLink="false">db24b560c93cd4d1</guid>
+      <pubDate>Tue, 11 Aug 2026 13:57:49 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/db24b560c93cd4d1.mp3" length="17075232" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Fidel Castro sobre el amor, la ética y el marxismo</title>
       <description>Cuba – Rebelion — https://rebelion.org/fidel-castro-sobre-el-amor-la-etica-y-el-marxismo/</description>
       <link>https://rebelion.org/fidel-castro-sobre-el-amor-la-etica-y-el-marxismo/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">98c92f0fd8c48085</guid>
       <pubDate>Sun, 19 Jul 2026 07:08:09 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/98c92f0fd8c48085.mp3" length="6600960" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Bloqueo, asedio y transformación socialista (I)</title>
-      <description>Cuba – Rebelion — https://rebelion.org/bloqueo-asedio-y-transformacion-socialista-i/</description>
-      <link>https://rebelion.org/bloqueo-asedio-y-transformacion-socialista-i/</link>
-      <guid isPermaLink="false">69b8e9b7b69900e6</guid>
-      <pubDate>Sun, 19 Jul 2026 07:06:59 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/69b8e9b7b69900e6.mp3" length="5593248" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
