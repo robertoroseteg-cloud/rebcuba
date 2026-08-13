@@ -1,5 +1,23 @@
 [
   {
+    "id": "0996ddba04dc138e",
+    "titulo": "Fidel Castro, el hombre, el estratega, el revolucionario",
+    "fuente": "Cuba – Rebelion",
+    "enlace": "https://rebelion.org/fidel-castro-el-hombre-el-estratega-el-revolucionario/",
+    "archivo": "0996ddba04dc138e.mp3",
+    "bytes": 3170736,
+    "timestamp": 1786629513
+  },
+  {
+    "id": "2a84ea717adf1be2",
+    "titulo": "Fidel Castro la moral como escudo",
+    "fuente": "Cuba – Rebelion",
+    "enlace": "https://rebelion.org/fidel-castro-la-moral-como-escudo/",
+    "archivo": "2a84ea717adf1be2.mp3",
+    "bytes": 7114176,
+    "timestamp": 1786629491
+  },
+  {
     "id": "2f2dad6adb168ef1",
     "titulo": "Una biografía de Fidel Castro en el centenario de su nacimiento",
     "fuente": "Cuba – Rebelion",
@@ -160,23 +178,5 @@
     "archivo": "150afd0603cfc0be.mp3",
     "bytes": 4094784,
     "timestamp": 1784445053
-  },
-  {
-    "id": "d846819233e12bc6",
-    "titulo": "Turismo cubano: las medidas que cambian sus reglas desde 2026",
-    "fuente": "Cuba – Rebelion",
-    "enlace": "https://rebelion.org/turismo-cubano-las-medidas-que-cambian-sus-reglas-desde-2026/",
-    "archivo": "d846819233e12bc6.mp3",
-    "bytes": 3428208,
-    "timestamp": 1784444999
-  },
-  {
-    "id": "a7b3ccbb8560c86b",
-    "titulo": "El bloqueo criminal y genocida asfixia y mata de manera silenciosa",
-    "fuente": "Cuba – Rebelion",
-    "enlace": "https://rebelion.org/el-bloqueo-criminal-y-genocida-asfixia-y-mata-de-manera-silenciosa/",
-    "archivo": "a7b3ccbb8560c86b.mp3",
-    "bytes": 3982464,
-    "timestamp": 1784444957
   }
 ]
