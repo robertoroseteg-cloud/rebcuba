@@ -1,5 +1,14 @@
 [
   {
+    "id": "87a97db0542ebd60",
+    "titulo": "Fidel nos mira desde la historia",
+    "fuente": "Cuba – Rebelion",
+    "enlace": "https://rebelion.org/fidel-nos-mira-desde-la-historia/",
+    "archivo": "87a97db0542ebd60.mp3",
+    "bytes": 5883120,
+    "timestamp": 1786715624
+  },
+  {
     "id": "0996ddba04dc138e",
     "titulo": "Fidel Castro, el hombre, el estratega, el revolucionario",
     "fuente": "Cuba – Rebelion",
@@ -169,14 +178,5 @@
     "archivo": "b37baea9d296e558.mp3",
     "bytes": 7296480,
     "timestamp": 1784445174
-  },
-  {
-    "id": "150afd0603cfc0be",
-    "titulo": "Proisraelíes y cubanoamericanos: Marco Rubio y sus inversionistas",
-    "fuente": "Cuba – Rebelion",
-    "enlace": "https://rebelion.org/proisraelies-y-cubanoamericanos-marco-rubio-y-sus-inversionistas/",
-    "archivo": "150afd0603cfc0be.mp3",
-    "bytes": 4094784,
-    "timestamp": 1784445053
   }
 ]

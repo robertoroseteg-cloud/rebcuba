@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Fidel nos mira desde la historia</title>
+      <description>Cuba – Rebelion — https://rebelion.org/fidel-nos-mira-desde-la-historia/</description>
+      <link>https://rebelion.org/fidel-nos-mira-desde-la-historia/</link>
+      <guid isPermaLink="false">87a97db0542ebd60</guid>
+      <pubDate>Fri, 14 Aug 2026 13:53:44 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/87a97db0542ebd60.mp3" length="5883120" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Fidel Castro, el hombre, el estratega, el revolucionario</title>
       <description>Cuba – Rebelion — https://rebelion.org/fidel-castro-el-hombre-el-estratega-el-revolucionario/</description>
       <link>https://rebelion.org/fidel-castro-el-hombre-el-estratega-el-revolucionario/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">b37baea9d296e558</guid>
       <pubDate>Sun, 19 Jul 2026 07:12:54 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/b37baea9d296e558.mp3" length="7296480" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Proisraelíes y cubanoamericanos: Marco Rubio y sus inversionistas</title>
-      <description>Cuba – Rebelion — https://rebelion.org/proisraelies-y-cubanoamericanos-marco-rubio-y-sus-inversionistas/</description>
-      <link>https://rebelion.org/proisraelies-y-cubanoamericanos-marco-rubio-y-sus-inversionistas/</link>
-      <guid isPermaLink="false">150afd0603cfc0be</guid>
-      <pubDate>Sun, 19 Jul 2026 07:10:53 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/150afd0603cfc0be.mp3" length="4094784" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
