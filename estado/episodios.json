@@ -1,5 +1,23 @@
 [
   {
+    "id": "011388eca9934f23",
+    "titulo": "Entre la parálisis y la resistencia: el turismo cubano en verano",
+    "fuente": "Cuba – Rebelion",
+    "enlace": "https://rebelion.org/entre-la-paralisis-y-la-resistencia-el-turismo-cubano-en-verano/",
+    "archivo": "011388eca9934f23.mp3",
+    "bytes": 2702304,
+    "timestamp": 1786972921
+  },
+  {
+    "id": "ddffb8dc58aab0c3",
+    "titulo": "La infiltración antillana de Cuba",
+    "fuente": "Cuba – Rebelion",
+    "enlace": "https://rebelion.org/la-infiltracion-antillana-de-cuba/",
+    "archivo": "ddffb8dc58aab0c3.mp3",
+    "bytes": 4484736,
+    "timestamp": 1786972894
+  },
+  {
     "id": "87a97db0542ebd60",
     "titulo": "Fidel nos mira desde la historia",
     "fuente": "Cuba – Rebelion",
@@ -160,23 +178,5 @@
     "archivo": "a1542202e937916e.mp3",
     "bytes": 706032,
     "timestamp": 1784739822
-  },
-  {
-    "id": "9c162d8f6e3f7bda",
-    "titulo": "Para caminar junto a Fidel",
-    "fuente": "Cuba – Rebelion",
-    "enlace": "https://rebelion.org/para-caminar-junto-a-fidel/",
-    "archivo": "9c162d8f6e3f7bda.mp3",
-    "bytes": 1693872,
-    "timestamp": 1784739810
-  },
-  {
-    "id": "b37baea9d296e558",
-    "titulo": "Encuentro Estatal de Solidaridad con Cuba lleva la denuncia del bloqueo a la Semana Negra de Gijón",
-    "fuente": "Cuba – Rebelion",
-    "enlace": "https://rebelion.org/encuentro-estatal-de-solidaridad-con-cuba-lleva-la-denuncia-del-bloqueo-a-la-semana-negra-de-gijon/",
-    "archivo": "b37baea9d296e558.mp3",
-    "bytes": 7296480,
-    "timestamp": 1784445174
   }
 ]

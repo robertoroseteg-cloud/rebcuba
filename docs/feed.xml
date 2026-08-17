@@ -8,6 +8,22 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Entre la parálisis y la resistencia: el turismo cubano en verano</title>
+      <description>Cuba – Rebelion — https://rebelion.org/entre-la-paralisis-y-la-resistencia-el-turismo-cubano-en-verano/</description>
+      <link>https://rebelion.org/entre-la-paralisis-y-la-resistencia-el-turismo-cubano-en-verano/</link>
+      <guid isPermaLink="false">011388eca9934f23</guid>
+      <pubDate>Mon, 17 Aug 2026 13:22:01 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/011388eca9934f23.mp3" length="2702304" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>La infiltración antillana de Cuba</title>
+      <description>Cuba – Rebelion — https://rebelion.org/la-infiltracion-antillana-de-cuba/</description>
+      <link>https://rebelion.org/la-infiltracion-antillana-de-cuba/</link>
+      <guid isPermaLink="false">ddffb8dc58aab0c3</guid>
+      <pubDate>Mon, 17 Aug 2026 13:21:34 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/ddffb8dc58aab0c3.mp3" length="4484736" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Fidel nos mira desde la historia</title>
       <description>Cuba – Rebelion — https://rebelion.org/fidel-nos-mira-desde-la-historia/</description>
       <link>https://rebelion.org/fidel-nos-mira-desde-la-historia/</link>
@@ -150,22 +166,6 @@
       <guid isPermaLink="false">a1542202e937916e</guid>
       <pubDate>Wed, 22 Jul 2026 17:03:42 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/a1542202e937916e.mp3" length="706032" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Para caminar junto a Fidel</title>
-      <description>Cuba – Rebelion — https://rebelion.org/para-caminar-junto-a-fidel/</description>
-      <link>https://rebelion.org/para-caminar-junto-a-fidel/</link>
-      <guid isPermaLink="false">9c162d8f6e3f7bda</guid>
-      <pubDate>Wed, 22 Jul 2026 17:03:30 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/9c162d8f6e3f7bda.mp3" length="1693872" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Encuentro Estatal de Solidaridad con Cuba lleva la denuncia del bloqueo a la Semana Negra de Gijón</title>
-      <description>Cuba – Rebelion — https://rebelion.org/encuentro-estatal-de-solidaridad-con-cuba-lleva-la-denuncia-del-bloqueo-a-la-semana-negra-de-gijon/</description>
-      <link>https://rebelion.org/encuentro-estatal-de-solidaridad-con-cuba-lleva-la-denuncia-del-bloqueo-a-la-semana-negra-de-gijon/</link>
-      <guid isPermaLink="false">b37baea9d296e558</guid>
-      <pubDate>Sun, 19 Jul 2026 07:12:54 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/b37baea9d296e558.mp3" length="7296480" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
