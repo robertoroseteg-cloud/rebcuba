@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Fidel: cien años que no cesan de nacer</title>
+      <description>Cuba – Rebelion — https://rebelion.org/fidel-cien-anos-que-no-cesan-de-nacer/</description>
+      <link>https://rebelion.org/fidel-cien-anos-que-no-cesan-de-nacer/</link>
+      <guid isPermaLink="false">e5e78c341e0ff0ed</guid>
+      <pubDate>Tue, 18 Aug 2026 13:24:17 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/e5e78c341e0ff0ed.mp3" length="3042576" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Entre la parálisis y la resistencia: el turismo cubano en verano</title>
       <description>Cuba – Rebelion — https://rebelion.org/entre-la-paralisis-y-la-resistencia-el-turismo-cubano-en-verano/</description>
       <link>https://rebelion.org/entre-la-paralisis-y-la-resistencia-el-turismo-cubano-en-verano/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">091b34de3cd31ad2</guid>
       <pubDate>Thu, 23 Jul 2026 17:08:21 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/091b34de3cd31ad2.mp3" length="12178224" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Treinta años de humanidad: el legado de Fidel en Gambia</title>
-      <description>Cuba – Rebelion — https://rebelion.org/treinta-anos-de-humanidad-el-legado-de-fidel-en-gambia/</description>
-      <link>https://rebelion.org/treinta-anos-de-humanidad-el-legado-de-fidel-en-gambia/</link>
-      <guid isPermaLink="false">a1542202e937916e</guid>
-      <pubDate>Wed, 22 Jul 2026 17:03:42 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/a1542202e937916e.mp3" length="706032" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
