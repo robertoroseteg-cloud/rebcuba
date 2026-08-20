@@ -8,6 +8,22 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>«La historia me absolverá»</title>
+      <description>Cuba – Rebelion — https://rebelion.org/la-historia-me-absolvera-3/</description>
+      <link>https://rebelion.org/la-historia-me-absolvera-3/</link>
+      <guid isPermaLink="false">7d31262b259d8736</guid>
+      <pubDate>Thu, 20 Aug 2026 13:29:16 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/7d31262b259d8736.mp3" length="4483008" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>El legado de Fidel Castro entre el desamparo y la especie</title>
+      <description>Cuba – Rebelion — https://rebelion.org/el-legado-de-fidel-castro-entre-el-desamparo-y-la-especie/</description>
+      <link>https://rebelion.org/el-legado-de-fidel-castro-entre-el-desamparo-y-la-especie/</link>
+      <guid isPermaLink="false">26688f426d0b03a2</guid>
+      <pubDate>Thu, 20 Aug 2026 13:28:44 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/26688f426d0b03a2.mp3" length="12655440" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Fidel: cien años que no cesan de nacer</title>
       <description>Cuba – Rebelion — https://rebelion.org/fidel-cien-anos-que-no-cesan-de-nacer/</description>
       <link>https://rebelion.org/fidel-cien-anos-que-no-cesan-de-nacer/</link>
@@ -150,22 +166,6 @@
       <guid isPermaLink="false">ab271e5dce49b9e8</guid>
       <pubDate>Fri, 24 Jul 2026 18:03:47 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/ab271e5dce49b9e8.mp3" length="2904336" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Contra Cuba y todos los que no se someten</title>
-      <description>Cuba – Rebelion — https://rebelion.org/contra-cuba-y-todos-los-que-no-se-someten/</description>
-      <link>https://rebelion.org/contra-cuba-y-todos-los-que-no-se-someten/</link>
-      <guid isPermaLink="false">3207e460a57b6bf0</guid>
-      <pubDate>Thu, 23 Jul 2026 17:08:55 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/3207e460a57b6bf0.mp3" length="2504736" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Cuba resiste una guerra no convencional</title>
-      <description>Cuba – Rebelion — https://rebelion.org/nos-intentan-agredir-desde-el-norte/</description>
-      <link>https://rebelion.org/nos-intentan-agredir-desde-el-norte/</link>
-      <guid isPermaLink="false">091b34de3cd31ad2</guid>
-      <pubDate>Thu, 23 Jul 2026 17:08:21 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/091b34de3cd31ad2.mp3" length="12178224" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>

@@ -1,5 +1,23 @@
 [
   {
+    "id": "7d31262b259d8736",
+    "titulo": "«La historia me absolverá»",
+    "fuente": "Cuba – Rebelion",
+    "enlace": "https://rebelion.org/la-historia-me-absolvera-3/",
+    "archivo": "7d31262b259d8736.mp3",
+    "bytes": 4483008,
+    "timestamp": 1787232556
+  },
+  {
+    "id": "26688f426d0b03a2",
+    "titulo": "El legado de Fidel Castro entre el desamparo y la especie",
+    "fuente": "Cuba – Rebelion",
+    "enlace": "https://rebelion.org/el-legado-de-fidel-castro-entre-el-desamparo-y-la-especie/",
+    "archivo": "26688f426d0b03a2.mp3",
+    "bytes": 12655440,
+    "timestamp": 1787232524
+  },
+  {
     "id": "e5e78c341e0ff0ed",
     "titulo": "Fidel: cien años que no cesan de nacer",
     "fuente": "Cuba – Rebelion",
@@ -160,23 +178,5 @@
     "archivo": "ab271e5dce49b9e8.mp3",
     "bytes": 2904336,
     "timestamp": 1784916227
-  },
-  {
-    "id": "3207e460a57b6bf0",
-    "titulo": "Contra Cuba y todos los que no se someten",
-    "fuente": "Cuba – Rebelion",
-    "enlace": "https://rebelion.org/contra-cuba-y-todos-los-que-no-se-someten/",
-    "archivo": "3207e460a57b6bf0.mp3",
-    "bytes": 2504736,
-    "timestamp": 1784826535
-  },
-  {
-    "id": "091b34de3cd31ad2",
-    "titulo": "Cuba resiste una guerra no convencional",
-    "fuente": "Cuba – Rebelion",
-    "enlace": "https://rebelion.org/nos-intentan-agredir-desde-el-norte/",
-    "archivo": "091b34de3cd31ad2.mp3",
-    "bytes": 12178224,
-    "timestamp": 1784826501
   }
 ]
