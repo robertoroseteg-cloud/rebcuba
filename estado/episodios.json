@@ -1,5 +1,32 @@
 [
   {
+    "id": "960a907e0813d245",
+    "titulo": "Estados Unidos, y el deterioro de las condiciones de vida en Cuba",
+    "fuente": "Cuba – Rebelion",
+    "enlace": "https://rebelion.org/estados-unidos-y-el-deterioro-de-las-condiciones-de-vida-en-cuba/",
+    "archivo": "960a907e0813d245.mp3",
+    "bytes": 13712688,
+    "timestamp": 1787404470
+  },
+  {
+    "id": "3bb85cd39878c0a4",
+    "titulo": "Estados Unidos apunta ahora al suministro de alimentos de Cuba",
+    "fuente": "Cuba – Rebelion",
+    "enlace": "https://rebelion.org/estados-unidos-apunta-ahora-al-suministro-de-alimentos-de-cuba/",
+    "archivo": "3bb85cd39878c0a4.mp3",
+    "bytes": 5483808,
+    "timestamp": 1787404319
+  },
+  {
+    "id": "1be936f870771216",
+    "titulo": "La vigencia plena del legado de José Martí",
+    "fuente": "Cuba – Rebelion",
+    "enlace": "https://rebelion.org/la-vigencia-plena-del-legado-de-jose-marti/",
+    "archivo": "1be936f870771216.mp3",
+    "bytes": 1893744,
+    "timestamp": 1787404195
+  },
+  {
     "id": "9e6906a85b62210e",
     "titulo": "¿Por qué las nuevas medidas económicas violan la Constitución?",
     "fuente": "Cuba – Rebelion",
@@ -151,32 +178,5 @@
     "archivo": "b86e37725bedc6ec.mp3",
     "bytes": 6633648,
     "timestamp": 1785855687
-  },
-  {
-    "id": "69141fd733b11c17",
-    "titulo": "Cuba y la solidaridad antiimperialista",
-    "fuente": "Cuba – Rebelion",
-    "enlace": "https://rebelion.org/cuba-y-la-solidaridad-antiimperialista/",
-    "archivo": "69141fd733b11c17.mp3",
-    "bytes": 2693088,
-    "timestamp": 1785770763
-  },
-  {
-    "id": "12333baa925f41e3",
-    "titulo": "Una educación desde y al servicio del pueblo",
-    "fuente": "Cuba – Rebelion",
-    "enlace": "https://rebelion.org/cuba-una-educacion-desde-y-al-servicio-del-pueblo/",
-    "archivo": "12333baa925f41e3.mp3",
-    "bytes": 2360448,
-    "timestamp": 1785176019
-  },
-  {
-    "id": "13cf09081fb4ae71",
-    "titulo": "La farsa del informe contra Cuba",
-    "fuente": "Cuba – Rebelion",
-    "enlace": "https://rebelion.org/la-farsa-del-informe-contra-cuba/",
-    "archivo": "13cf09081fb4ae71.mp3",
-    "bytes": 2716992,
-    "timestamp": 1785175984
   }
 ]
