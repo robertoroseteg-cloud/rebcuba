@@ -8,6 +8,30 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Fidel Castro: el líder en su centenario</title>
+      <description>Cuba – Rebelion — https://rebelion.org/fidel-castro-el-lider-en-su-centenario/</description>
+      <link>https://rebelion.org/fidel-castro-el-lider-en-su-centenario/</link>
+      <guid isPermaLink="false">f6fab279be3cd4b4</guid>
+      <pubDate>Mon, 24 Aug 2026 13:33:07 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/f6fab279be3cd4b4.mp3" length="4161312" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Cuba, el asedio y los cooperadores necesarios</title>
+      <description>Cuba – Rebelion — https://rebelion.org/cuba-el-asedio-y-los-cooperadores-necesarios/</description>
+      <link>https://rebelion.org/cuba-el-asedio-y-los-cooperadores-necesarios/</link>
+      <guid isPermaLink="false">cdac1070dbf5664c</guid>
+      <pubDate>Mon, 24 Aug 2026 13:32:21 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/cdac1070dbf5664c.mp3" length="9276912" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>638 intentos de asesinar a un desalineado</title>
+      <description>Cuba – Rebelion — https://rebelion.org/638-intentos-de-asesinar-a-un-desalineado/</description>
+      <link>https://rebelion.org/638-intentos-de-asesinar-a-un-desalineado/</link>
+      <guid isPermaLink="false">16f0b6a3ae31e328</guid>
+      <pubDate>Mon, 24 Aug 2026 13:30:31 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/16f0b6a3ae31e328.mp3" length="6394896" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Estados Unidos, y el deterioro de las condiciones de vida en Cuba</title>
       <description>Cuba – Rebelion — https://rebelion.org/estados-unidos-y-el-deterioro-de-las-condiciones-de-vida-en-cuba/</description>
       <link>https://rebelion.org/estados-unidos-y-el-deterioro-de-las-condiciones-de-vida-en-cuba/</link>
@@ -142,30 +166,6 @@
       <guid isPermaLink="false">04dc6b5b231c69c0</guid>
       <pubDate>Fri, 07 Aug 2026 13:50:13 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/04dc6b5b231c69c0.mp3" length="1945296" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Los memes y toda la fanfarria vergonzante</title>
-      <description>Cuba – Rebelion — https://rebelion.org/los-memes-y-toda-la-fanfarria-vergonzante/</description>
-      <link>https://rebelion.org/los-memes-y-toda-la-fanfarria-vergonzante/</link>
-      <guid isPermaLink="false">9beaef469479a652</guid>
-      <pubDate>Wed, 05 Aug 2026 14:56:10 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/9beaef469479a652.mp3" length="11014848" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Una guerra sin bombas</title>
-      <description>Cuba – Rebelion — https://rebelion.org/una-guerra-sin-bombas/</description>
-      <link>https://rebelion.org/una-guerra-sin-bombas/</link>
-      <guid isPermaLink="false">021d43d72ee67728</guid>
-      <pubDate>Tue, 04 Aug 2026 15:01:44 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/021d43d72ee67728.mp3" length="2505168" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Logros en desarrollo humano y solidaridad internacional</title>
-      <description>Cuba – Rebelion — https://rebelion.org/logros-en-desarrollo-humano-y-solidaridad-internacional/</description>
-      <link>https://rebelion.org/logros-en-desarrollo-humano-y-solidaridad-internacional/</link>
-      <guid isPermaLink="false">b86e37725bedc6ec</guid>
-      <pubDate>Tue, 04 Aug 2026 15:01:27 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/b86e37725bedc6ec.mp3" length="6633648" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>

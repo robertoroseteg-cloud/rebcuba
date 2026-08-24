@@ -1,5 +1,32 @@
 [
   {
+    "id": "f6fab279be3cd4b4",
+    "titulo": "Fidel Castro: el líder en su centenario",
+    "fuente": "Cuba – Rebelion",
+    "enlace": "https://rebelion.org/fidel-castro-el-lider-en-su-centenario/",
+    "archivo": "f6fab279be3cd4b4.mp3",
+    "bytes": 4161312,
+    "timestamp": 1787578387
+  },
+  {
+    "id": "cdac1070dbf5664c",
+    "titulo": "Cuba, el asedio y los cooperadores necesarios",
+    "fuente": "Cuba – Rebelion",
+    "enlace": "https://rebelion.org/cuba-el-asedio-y-los-cooperadores-necesarios/",
+    "archivo": "cdac1070dbf5664c.mp3",
+    "bytes": 9276912,
+    "timestamp": 1787578341
+  },
+  {
+    "id": "16f0b6a3ae31e328",
+    "titulo": "638 intentos de asesinar a un desalineado",
+    "fuente": "Cuba – Rebelion",
+    "enlace": "https://rebelion.org/638-intentos-de-asesinar-a-un-desalineado/",
+    "archivo": "16f0b6a3ae31e328.mp3",
+    "bytes": 6394896,
+    "timestamp": 1787578231
+  },
+  {
     "id": "960a907e0813d245",
     "titulo": "Estados Unidos, y el deterioro de las condiciones de vida en Cuba",
     "fuente": "Cuba – Rebelion",
@@ -151,32 +178,5 @@
     "archivo": "04dc6b5b231c69c0.mp3",
     "bytes": 1945296,
     "timestamp": 1786110613
-  },
-  {
-    "id": "9beaef469479a652",
-    "titulo": "Los memes y toda la fanfarria vergonzante",
-    "fuente": "Cuba – Rebelion",
-    "enlace": "https://rebelion.org/los-memes-y-toda-la-fanfarria-vergonzante/",
-    "archivo": "9beaef469479a652.mp3",
-    "bytes": 11014848,
-    "timestamp": 1785941770
-  },
-  {
-    "id": "021d43d72ee67728",
-    "titulo": "Una guerra sin bombas",
-    "fuente": "Cuba – Rebelion",
-    "enlace": "https://rebelion.org/una-guerra-sin-bombas/",
-    "archivo": "021d43d72ee67728.mp3",
-    "bytes": 2505168,
-    "timestamp": 1785855704
-  },
-  {
-    "id": "b86e37725bedc6ec",
-    "titulo": "Logros en desarrollo humano y solidaridad internacional",
-    "fuente": "Cuba – Rebelion",
-    "enlace": "https://rebelion.org/logros-en-desarrollo-humano-y-solidaridad-internacional/",
-    "archivo": "b86e37725bedc6ec.mp3",
-    "bytes": 6633648,
-    "timestamp": 1785855687
   }
 ]
