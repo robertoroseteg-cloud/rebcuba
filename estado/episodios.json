@@ -1,5 +1,23 @@
 [
   {
+    "id": "e76fa79c5f4f2737",
+    "titulo": "Cuba, a pesar del imperialismo gringo",
+    "fuente": "Cuba – Rebelion",
+    "enlace": "https://rebelion.org/cuba-a-pesar-del-imperialismo-gringo/",
+    "archivo": "e76fa79c5f4f2737.mp3",
+    "bytes": 1656432,
+    "timestamp": 1787664555
+  },
+  {
+    "id": "e93646d2cabaee91",
+    "titulo": "Cuba al límite: por qué Estados Unidos ahoga a la isla más que nunca",
+    "fuente": "Cuba – Rebelion",
+    "enlace": "https://rebelion.org/cuba-al-limite-por-que-estados-unidos-ahoga-a-la-isla-mas-que-nunca/",
+    "archivo": "e93646d2cabaee91.mp3",
+    "bytes": 3111840,
+    "timestamp": 1787664519
+  },
+  {
     "id": "f6fab279be3cd4b4",
     "titulo": "Fidel Castro: el líder en su centenario",
     "fuente": "Cuba – Rebelion",
@@ -160,23 +178,5 @@
     "archivo": "db24b560c93cd4d1.mp3",
     "bytes": 17075232,
     "timestamp": 1786456669
-  },
-  {
-    "id": "7a8f69e5eed9401a",
-    "titulo": "Fidel Castro sobre el amor, la ética y el marxismo",
-    "fuente": "Cuba – Rebelion",
-    "enlace": "https://rebelion.org/fidel-castro-sobre-el-amor-la-etica-y-el-marxismo/",
-    "archivo": "7a8f69e5eed9401a.mp3",
-    "bytes": 17901216,
-    "timestamp": 1786195704
-  },
-  {
-    "id": "04dc6b5b231c69c0",
-    "titulo": "¿Permitirán gobiernos amigos un genocidio contra Cuba?",
-    "fuente": "Cuba – Rebelion",
-    "enlace": "https://rebelion.org/permitiran-gobiernos-amigos-un-genocidio-contra-cuba/",
-    "archivo": "04dc6b5b231c69c0.mp3",
-    "bytes": 1945296,
-    "timestamp": 1786110613
   }
 ]

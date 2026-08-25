@@ -8,6 +8,22 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Cuba, a pesar del imperialismo gringo</title>
+      <description>Cuba – Rebelion — https://rebelion.org/cuba-a-pesar-del-imperialismo-gringo/</description>
+      <link>https://rebelion.org/cuba-a-pesar-del-imperialismo-gringo/</link>
+      <guid isPermaLink="false">e76fa79c5f4f2737</guid>
+      <pubDate>Tue, 25 Aug 2026 13:29:15 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/e76fa79c5f4f2737.mp3" length="1656432" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Cuba al límite: por qué Estados Unidos ahoga a la isla más que nunca</title>
+      <description>Cuba – Rebelion — https://rebelion.org/cuba-al-limite-por-que-estados-unidos-ahoga-a-la-isla-mas-que-nunca/</description>
+      <link>https://rebelion.org/cuba-al-limite-por-que-estados-unidos-ahoga-a-la-isla-mas-que-nunca/</link>
+      <guid isPermaLink="false">e93646d2cabaee91</guid>
+      <pubDate>Tue, 25 Aug 2026 13:28:39 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/e93646d2cabaee91.mp3" length="3111840" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Fidel Castro: el líder en su centenario</title>
       <description>Cuba – Rebelion — https://rebelion.org/fidel-castro-el-lider-en-su-centenario/</description>
       <link>https://rebelion.org/fidel-castro-el-lider-en-su-centenario/</link>
@@ -150,22 +166,6 @@
       <guid isPermaLink="false">db24b560c93cd4d1</guid>
       <pubDate>Tue, 11 Aug 2026 13:57:49 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/db24b560c93cd4d1.mp3" length="17075232" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Fidel Castro sobre el amor, la ética y el marxismo</title>
-      <description>Cuba – Rebelion — https://rebelion.org/fidel-castro-sobre-el-amor-la-etica-y-el-marxismo/</description>
-      <link>https://rebelion.org/fidel-castro-sobre-el-amor-la-etica-y-el-marxismo/</link>
-      <guid isPermaLink="false">7a8f69e5eed9401a</guid>
-      <pubDate>Sat, 08 Aug 2026 13:28:24 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/7a8f69e5eed9401a.mp3" length="17901216" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>¿Permitirán gobiernos amigos un genocidio contra Cuba?</title>
-      <description>Cuba – Rebelion — https://rebelion.org/permitiran-gobiernos-amigos-un-genocidio-contra-cuba/</description>
-      <link>https://rebelion.org/permitiran-gobiernos-amigos-un-genocidio-contra-cuba/</link>
-      <guid isPermaLink="false">04dc6b5b231c69c0</guid>
-      <pubDate>Fri, 07 Aug 2026 13:50:13 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/04dc6b5b231c69c0.mp3" length="1945296" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
