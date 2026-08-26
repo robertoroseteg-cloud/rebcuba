@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Gaza 2.0</title>
+      <description>Cuba – Rebelion — https://rebelion.org/gaza-2-0/</description>
+      <link>https://rebelion.org/gaza-2-0/</link>
+      <guid isPermaLink="false">cc4696d15f3a90e4</guid>
+      <pubDate>Wed, 26 Aug 2026 13:34:23 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/cc4696d15f3a90e4.mp3" length="1179072" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Cuba, a pesar del imperialismo gringo</title>
       <description>Cuba – Rebelion — https://rebelion.org/cuba-a-pesar-del-imperialismo-gringo/</description>
       <link>https://rebelion.org/cuba-a-pesar-del-imperialismo-gringo/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">01cd65030705f778</guid>
       <pubDate>Wed, 12 Aug 2026 13:57:30 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/01cd65030705f778.mp3" length="5101920" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Entre Martí y Marx: la síntesis que hizo invencible a Cuba</title>
-      <description>Cuba – Rebelion — https://rebelion.org/entre-marti-y-marx-la-sintesis-que-hizo-invencible-a-cuba/</description>
-      <link>https://rebelion.org/entre-marti-y-marx-la-sintesis-que-hizo-invencible-a-cuba/</link>
-      <guid isPermaLink="false">db24b560c93cd4d1</guid>
-      <pubDate>Tue, 11 Aug 2026 13:57:49 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/db24b560c93cd4d1.mp3" length="17075232" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
