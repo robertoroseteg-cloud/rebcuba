@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Fidel, ciencia y soberanía</title>
+      <description>Cuba – Rebelion — https://rebelion.org/fidel-ciencia-y-soberania/</description>
+      <link>https://rebelion.org/fidel-ciencia-y-soberania/</link>
+      <guid isPermaLink="false">245efb5ef7d805a3</guid>
+      <pubDate>Thu, 27 Aug 2026 22:31:03 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/245efb5ef7d805a3.mp3" length="9254016" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Gaza 2.0</title>
       <description>Cuba – Rebelion — https://rebelion.org/gaza-2-0/</description>
       <link>https://rebelion.org/gaza-2-0/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">2f2dad6adb168ef1</guid>
       <pubDate>Wed, 12 Aug 2026 13:57:39 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/2f2dad6adb168ef1.mp3" length="1088928" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Brigadas médicas cubanas atienden a familias refugiadas en Caracas pese a la amenaza estadounidense</title>
-      <description>Cuba – Rebelion — https://rebelion.org/brigadas-medicas-cubanas-atienden-a-familias-refugiadas-en-caracas-pese-a-la-amenaza-estadounidense/</description>
-      <link>https://rebelion.org/brigadas-medicas-cubanas-atienden-a-familias-refugiadas-en-caracas-pese-a-la-amenaza-estadounidense/</link>
-      <guid isPermaLink="false">01cd65030705f778</guid>
-      <pubDate>Wed, 12 Aug 2026 13:57:30 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/01cd65030705f778.mp3" length="5101920" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
