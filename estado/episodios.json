@@ -1,5 +1,14 @@
 [
   {
+    "id": "2500d411c320d357",
+    "titulo": "La defensa de Cuba y el socialismo",
+    "fuente": "Cuba – Rebelion",
+    "enlace": "https://rebelion.org/la-defensa-de-cuba-y-el-socialismo/",
+    "archivo": "2500d411c320d357.mp3",
+    "bytes": 3484224,
+    "timestamp": 1787956334
+  },
+  {
     "id": "245efb5ef7d805a3",
     "titulo": "Fidel, ciencia y soberanía",
     "fuente": "Cuba – Rebelion",
@@ -169,14 +178,5 @@
     "archivo": "2a84ea717adf1be2.mp3",
     "bytes": 7114176,
     "timestamp": 1786629491
-  },
-  {
-    "id": "2f2dad6adb168ef1",
-    "titulo": "Una biografía de Fidel Castro en el centenario de su nacimiento",
-    "fuente": "Cuba – Rebelion",
-    "enlace": "https://rebelion.org/una-biografia-de-fidel-castro-en-el-centenario-de-su-nacimiento/",
-    "archivo": "2f2dad6adb168ef1.mp3",
-    "bytes": 1088928,
-    "timestamp": 1786543059
   }
 ]

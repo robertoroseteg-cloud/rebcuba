@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>La defensa de Cuba y el socialismo</title>
+      <description>Cuba – Rebelion — https://rebelion.org/la-defensa-de-cuba-y-el-socialismo/</description>
+      <link>https://rebelion.org/la-defensa-de-cuba-y-el-socialismo/</link>
+      <guid isPermaLink="false">2500d411c320d357</guid>
+      <pubDate>Fri, 28 Aug 2026 22:32:14 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/2500d411c320d357.mp3" length="3484224" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Fidel, ciencia y soberanía</title>
       <description>Cuba – Rebelion — https://rebelion.org/fidel-ciencia-y-soberania/</description>
       <link>https://rebelion.org/fidel-ciencia-y-soberania/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">2a84ea717adf1be2</guid>
       <pubDate>Thu, 13 Aug 2026 13:58:11 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/2a84ea717adf1be2.mp3" length="7114176" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Una biografía de Fidel Castro en el centenario de su nacimiento</title>
-      <description>Cuba – Rebelion — https://rebelion.org/una-biografia-de-fidel-castro-en-el-centenario-de-su-nacimiento/</description>
-      <link>https://rebelion.org/una-biografia-de-fidel-castro-en-el-centenario-de-su-nacimiento/</link>
-      <guid isPermaLink="false">2f2dad6adb168ef1</guid>
-      <pubDate>Wed, 12 Aug 2026 13:57:39 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/2f2dad6adb168ef1.mp3" length="1088928" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
