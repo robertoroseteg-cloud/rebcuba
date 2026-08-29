@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>La crítica de la economía política y su horizonte revolucionario</title>
+      <description>Cuba – Rebelion — https://rebelion.org/la-critica-de-la-economia-politica-y-su-horizonte-revolucionario/</description>
+      <link>https://rebelion.org/la-critica-de-la-economia-politica-y-su-horizonte-revolucionario/</link>
+      <guid isPermaLink="false">18850978e2fe8099</guid>
+      <pubDate>Sat, 29 Aug 2026 16:51:07 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/18850978e2fe8099.mp3" length="3539952" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>La defensa de Cuba y el socialismo</title>
       <description>Cuba – Rebelion — https://rebelion.org/la-defensa-de-cuba-y-el-socialismo/</description>
       <link>https://rebelion.org/la-defensa-de-cuba-y-el-socialismo/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">0996ddba04dc138e</guid>
       <pubDate>Thu, 13 Aug 2026 13:58:33 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/0996ddba04dc138e.mp3" length="3170736" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Fidel Castro la moral como escudo</title>
-      <description>Cuba – Rebelion — https://rebelion.org/fidel-castro-la-moral-como-escudo/</description>
-      <link>https://rebelion.org/fidel-castro-la-moral-como-escudo/</link>
-      <guid isPermaLink="false">2a84ea717adf1be2</guid>
-      <pubDate>Thu, 13 Aug 2026 13:58:11 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/2a84ea717adf1be2.mp3" length="7114176" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
