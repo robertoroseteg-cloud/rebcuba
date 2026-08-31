@@ -1,5 +1,14 @@
 [
   {
+    "id": "9a5d3e8ce086946a",
+    "titulo": "Martí en la Revolución cubana",
+    "fuente": "Cuba – Rebelion",
+    "enlace": "https://rebelion.org/marti-en-la-revolucion-cubana/",
+    "archivo": "9a5d3e8ce086946a.mp3",
+    "bytes": 21738096,
+    "timestamp": 1788203682
+  },
+  {
     "id": "18850978e2fe8099",
     "titulo": "La crítica de la economía política y su horizonte revolucionario",
     "fuente": "Cuba – Rebelion",
@@ -169,14 +178,5 @@
     "archivo": "87a97db0542ebd60.mp3",
     "bytes": 5883120,
     "timestamp": 1786715624
-  },
-  {
-    "id": "0996ddba04dc138e",
-    "titulo": "Fidel Castro, el hombre, el estratega, el revolucionario",
-    "fuente": "Cuba – Rebelion",
-    "enlace": "https://rebelion.org/fidel-castro-el-hombre-el-estratega-el-revolucionario/",
-    "archivo": "0996ddba04dc138e.mp3",
-    "bytes": 3170736,
-    "timestamp": 1786629513
   }
 ]

@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Martí en la Revolución cubana</title>
+      <description>Cuba – Rebelion — https://rebelion.org/marti-en-la-revolucion-cubana/</description>
+      <link>https://rebelion.org/marti-en-la-revolucion-cubana/</link>
+      <guid isPermaLink="false">9a5d3e8ce086946a</guid>
+      <pubDate>Mon, 31 Aug 2026 19:14:42 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/9a5d3e8ce086946a.mp3" length="21738096" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>La crítica de la economía política y su horizonte revolucionario</title>
       <description>Cuba – Rebelion — https://rebelion.org/la-critica-de-la-economia-politica-y-su-horizonte-revolucionario/</description>
       <link>https://rebelion.org/la-critica-de-la-economia-politica-y-su-horizonte-revolucionario/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">87a97db0542ebd60</guid>
       <pubDate>Fri, 14 Aug 2026 13:53:44 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/87a97db0542ebd60.mp3" length="5883120" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Fidel Castro, el hombre, el estratega, el revolucionario</title>
-      <description>Cuba – Rebelion — https://rebelion.org/fidel-castro-el-hombre-el-estratega-el-revolucionario/</description>
-      <link>https://rebelion.org/fidel-castro-el-hombre-el-estratega-el-revolucionario/</link>
-      <guid isPermaLink="false">0996ddba04dc138e</guid>
-      <pubDate>Thu, 13 Aug 2026 13:58:33 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/0996ddba04dc138e.mp3" length="3170736" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
