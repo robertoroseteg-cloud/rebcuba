@@ -1,5 +1,77 @@
 [
   {
+    "id": "c2f9c3e70f5ce777",
+    "titulo": "Raúl",
+    "fuente": "Rebelión · Cuba",
+    "enlace": "https://rebelion.org/raul/",
+    "archivo": "c2f9c3e70f5ce777.mp3",
+    "bytes": 2518416,
+    "timestamp": 1792859001
+  },
+  {
+    "id": "df21155e9fb229d9",
+    "titulo": "«La Alianza de los Estados del Sahel sigue el mismo camino que Cuba»",
+    "fuente": "Rebelión · Cuba",
+    "enlace": "https://rebelion.org/la-alianza-de-los-estados-del-sahel-sigue-el-mismo-camino-que-cuba/",
+    "archivo": "df21155e9fb229d9.mp3",
+    "bytes": 2172672,
+    "timestamp": 1792858938
+  },
+  {
+    "id": "b95e9e38947cb621",
+    "titulo": "Sin patria no habrá democracia en Cuba",
+    "fuente": "Rebelión · Cuba",
+    "enlace": "https://rebelion.org/sin-patria-no-habra-democracia-en-cuba/",
+    "archivo": "b95e9e38947cb621.mp3",
+    "bytes": 7184736,
+    "timestamp": 1792858901
+  },
+  {
+    "id": "de73e4cf0ffe9c9b",
+    "titulo": "La resistencia del Gobierno y el pueblo de Cuba es baluarte mundial contra la barbarie",
+    "fuente": "Rebelión · Cuba",
+    "enlace": "https://rebelion.org/la-resistencia-del-gobierno-y-el-pueblo-de-cuba-es-baluarte-mundial-contra-la-barbarie/",
+    "archivo": "de73e4cf0ffe9c9b.mp3",
+    "bytes": 2383488,
+    "timestamp": 1792858787
+  },
+  {
+    "id": "62298b2e2280c973",
+    "titulo": "A 50 años del atentado contra el vuelo 455 de Cubana de Aviación, Cuba recuerda a las 73 víctimas del terrorismo",
+    "fuente": "Rebelión · Cuba",
+    "enlace": "https://rebelion.org/a-50-anos-del-atentado-contra-el-vuelo-455-de-cubana-de-aviacion-cuba-recuerda-a-las-73-victimas-del-terrorismo/",
+    "archivo": "62298b2e2280c973.mp3",
+    "bytes": 2891088,
+    "timestamp": 1792858739
+  },
+  {
+    "id": "edc397023f29becc",
+    "titulo": "El asedio estadounidense se intensifica cada vez más",
+    "fuente": "Rebelión · Cuba",
+    "enlace": "https://rebelion.org/el-asedio-estadounidense-se-intensifica-cada-vez-mas/",
+    "archivo": "edc397023f29becc.mp3",
+    "bytes": 4428576,
+    "timestamp": 1792858709
+  },
+  {
+    "id": "eac3007dab4474ab",
+    "titulo": "Conciencia de la revolución y revolución de la conciencia",
+    "fuente": "Rebelión · Cuba",
+    "enlace": "https://rebelion.org/conciencia-de-la-revolucion-y-revolucion-de-la-conciencia/",
+    "archivo": "eac3007dab4474ab.mp3",
+    "bytes": 3212352,
+    "timestamp": 1792858630
+  },
+  {
+    "id": "f711e2592f6c1312",
+    "titulo": "Miserabilizar para someter: el recurso del método de EEUU hacia Cuba",
+    "fuente": "Rebelión · Cuba",
+    "enlace": "https://rebelion.org/miserabilizar-para-someter-el-recurso-del-metodo-de-eeuu-hacia-cuba/",
+    "archivo": "f711e2592f6c1312.mp3",
+    "bytes": 181152,
+    "timestamp": 1792858542
+  },
+  {
     "id": "9a5d3e8ce086946a",
     "titulo": "Martí en la Revolución cubana",
     "fuente": "Cuba – Rebelion",
@@ -106,77 +178,5 @@
     "archivo": "3bb85cd39878c0a4.mp3",
     "bytes": 5483808,
     "timestamp": 1787404319
-  },
-  {
-    "id": "1be936f870771216",
-    "titulo": "La vigencia plena del legado de José Martí",
-    "fuente": "Cuba – Rebelion",
-    "enlace": "https://rebelion.org/la-vigencia-plena-del-legado-de-jose-marti/",
-    "archivo": "1be936f870771216.mp3",
-    "bytes": 1893744,
-    "timestamp": 1787404195
-  },
-  {
-    "id": "9e6906a85b62210e",
-    "titulo": "¿Por qué las nuevas medidas económicas violan la Constitución?",
-    "fuente": "Cuba – Rebelion",
-    "enlace": "https://rebelion.org/por-que-las-nuevas-medidas-economicas-violan-la-constitucion/",
-    "archivo": "9e6906a85b62210e.mp3",
-    "bytes": 3253824,
-    "timestamp": 1787318835
-  },
-  {
-    "id": "7d31262b259d8736",
-    "titulo": "«La historia me absolverá»",
-    "fuente": "Cuba – Rebelion",
-    "enlace": "https://rebelion.org/la-historia-me-absolvera-3/",
-    "archivo": "7d31262b259d8736.mp3",
-    "bytes": 4483008,
-    "timestamp": 1787232556
-  },
-  {
-    "id": "26688f426d0b03a2",
-    "titulo": "El legado de Fidel Castro entre el desamparo y la especie",
-    "fuente": "Cuba – Rebelion",
-    "enlace": "https://rebelion.org/el-legado-de-fidel-castro-entre-el-desamparo-y-la-especie/",
-    "archivo": "26688f426d0b03a2.mp3",
-    "bytes": 12655440,
-    "timestamp": 1787232524
-  },
-  {
-    "id": "e5e78c341e0ff0ed",
-    "titulo": "Fidel: cien años que no cesan de nacer",
-    "fuente": "Cuba – Rebelion",
-    "enlace": "https://rebelion.org/fidel-cien-anos-que-no-cesan-de-nacer/",
-    "archivo": "e5e78c341e0ff0ed.mp3",
-    "bytes": 3042576,
-    "timestamp": 1787059457
-  },
-  {
-    "id": "011388eca9934f23",
-    "titulo": "Entre la parálisis y la resistencia: el turismo cubano en verano",
-    "fuente": "Cuba – Rebelion",
-    "enlace": "https://rebelion.org/entre-la-paralisis-y-la-resistencia-el-turismo-cubano-en-verano/",
-    "archivo": "011388eca9934f23.mp3",
-    "bytes": 2702304,
-    "timestamp": 1786972921
-  },
-  {
-    "id": "ddffb8dc58aab0c3",
-    "titulo": "La infiltración antillana de Cuba",
-    "fuente": "Cuba – Rebelion",
-    "enlace": "https://rebelion.org/la-infiltracion-antillana-de-cuba/",
-    "archivo": "ddffb8dc58aab0c3.mp3",
-    "bytes": 4484736,
-    "timestamp": 1786972894
-  },
-  {
-    "id": "87a97db0542ebd60",
-    "titulo": "Fidel nos mira desde la historia",
-    "fuente": "Cuba – Rebelion",
-    "enlace": "https://rebelion.org/fidel-nos-mira-desde-la-historia/",
-    "archivo": "87a97db0542ebd60.mp3",
-    "bytes": 5883120,
-    "timestamp": 1786715624
   }
 ]
