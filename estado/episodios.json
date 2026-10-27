@@ -1,5 +1,14 @@
 [
   {
+    "id": "cdaff47c4291a46c",
+    "titulo": "Vasallaje o exterminio vs. resistencia y dignidad",
+    "fuente": "Rebelión · Cuba",
+    "enlace": "https://rebelion.org/vasallaje-o-exterminio-vs-resistencia-y-dignidad/",
+    "archivo": "cdaff47c4291a46c.mp3",
+    "bytes": 2181744,
+    "timestamp": 1793124653
+  },
+  {
     "id": "c2f9c3e70f5ce777",
     "titulo": "Raúl",
     "fuente": "Rebelión · Cuba",
@@ -169,14 +178,5 @@
     "archivo": "960a907e0813d245.mp3",
     "bytes": 13712688,
     "timestamp": 1787404470
-  },
-  {
-    "id": "3bb85cd39878c0a4",
-    "titulo": "Estados Unidos apunta ahora al suministro de alimentos de Cuba",
-    "fuente": "Cuba – Rebelion",
-    "enlace": "https://rebelion.org/estados-unidos-apunta-ahora-al-suministro-de-alimentos-de-cuba/",
-    "archivo": "3bb85cd39878c0a4.mp3",
-    "bytes": 5483808,
-    "timestamp": 1787404319
   }
 ]

@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Vasallaje o exterminio vs. resistencia y dignidad</title>
+      <description>Rebelión · Cuba — https://rebelion.org/vasallaje-o-exterminio-vs-resistencia-y-dignidad/</description>
+      <link>https://rebelion.org/vasallaje-o-exterminio-vs-resistencia-y-dignidad/</link>
+      <guid isPermaLink="false">cdaff47c4291a46c</guid>
+      <pubDate>Tue, 27 Oct 2026 18:10:53 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/cdaff47c4291a46c.mp3" length="2181744" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Raúl</title>
       <description>Rebelión · Cuba — https://rebelion.org/raul/</description>
       <link>https://rebelion.org/raul/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">960a907e0813d245</guid>
       <pubDate>Sat, 22 Aug 2026 13:14:30 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/960a907e0813d245.mp3" length="13712688" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Estados Unidos apunta ahora al suministro de alimentos de Cuba</title>
-      <description>Cuba – Rebelion — https://rebelion.org/estados-unidos-apunta-ahora-al-suministro-de-alimentos-de-cuba/</description>
-      <link>https://rebelion.org/estados-unidos-apunta-ahora-al-suministro-de-alimentos-de-cuba/</link>
-      <guid isPermaLink="false">3bb85cd39878c0a4</guid>
-      <pubDate>Sat, 22 Aug 2026 13:11:59 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/3bb85cd39878c0a4.mp3" length="5483808" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
