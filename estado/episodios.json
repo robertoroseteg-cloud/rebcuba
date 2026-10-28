@@ -1,5 +1,14 @@
 [
   {
+    "id": "66121063cb236b45",
+    "titulo": "Van contra Cuba… y contra la humanidad",
+    "fuente": "Rebelión · Cuba",
+    "enlace": "https://rebelion.org/van-contra-cuba-y-contra-la-humanidad/",
+    "archivo": "66121063cb236b45.mp3",
+    "bytes": 2120976,
+    "timestamp": 1793211971
+  },
+  {
     "id": "cdaff47c4291a46c",
     "titulo": "Vasallaje o exterminio vs. resistencia y dignidad",
     "fuente": "Rebelión · Cuba",
@@ -169,14 +178,5 @@
     "archivo": "16f0b6a3ae31e328.mp3",
     "bytes": 6394896,
     "timestamp": 1787578231
-  },
-  {
-    "id": "960a907e0813d245",
-    "titulo": "Estados Unidos, y el deterioro de las condiciones de vida en Cuba",
-    "fuente": "Cuba – Rebelion",
-    "enlace": "https://rebelion.org/estados-unidos-y-el-deterioro-de-las-condiciones-de-vida-en-cuba/",
-    "archivo": "960a907e0813d245.mp3",
-    "bytes": 13712688,
-    "timestamp": 1787404470
   }
 ]
