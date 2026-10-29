@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>La hora de Cuba en Naciones Unidas</title>
+      <description>Rebelión · Cuba — https://rebelion.org/la-hora-de-cuba-en-naciones-unidas/</description>
+      <link>https://rebelion.org/la-hora-de-cuba-en-naciones-unidas/</link>
+      <guid isPermaLink="false">68cd965480898eb0</guid>
+      <pubDate>Thu, 29 Oct 2026 18:36:14 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/68cd965480898eb0.mp3" length="1345248" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Van contra Cuba… y contra la humanidad</title>
       <description>Rebelión · Cuba — https://rebelion.org/van-contra-cuba-y-contra-la-humanidad/</description>
       <link>https://rebelion.org/van-contra-cuba-y-contra-la-humanidad/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">cdac1070dbf5664c</guid>
       <pubDate>Mon, 24 Aug 2026 13:32:21 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/cdac1070dbf5664c.mp3" length="9276912" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>638 intentos de asesinar a un desalineado</title>
-      <description>Cuba – Rebelion — https://rebelion.org/638-intentos-de-asesinar-a-un-desalineado/</description>
-      <link>https://rebelion.org/638-intentos-de-asesinar-a-un-desalineado/</link>
-      <guid isPermaLink="false">16f0b6a3ae31e328</guid>
-      <pubDate>Mon, 24 Aug 2026 13:30:31 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/16f0b6a3ae31e328.mp3" length="6394896" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
