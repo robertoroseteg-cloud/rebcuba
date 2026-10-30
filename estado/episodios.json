@@ -1,5 +1,14 @@
 [
   {
+    "id": "b4aa638bbf21e61f",
+    "titulo": "«Estados Unidos asfixia al pueblo cubano porque se niega a arrodillarse»",
+    "fuente": "Rebelión · Cuba",
+    "enlace": "https://rebelion.org/estados-unidos-asfixia-al-pueblo-cubano-porque-se-niega-a-arrodillarse/",
+    "archivo": "b4aa638bbf21e61f.mp3",
+    "bytes": 13386096,
+    "timestamp": 1793383930
+  },
+  {
     "id": "68cd965480898eb0",
     "titulo": "La hora de Cuba en Naciones Unidas",
     "fuente": "Rebelión · Cuba",
@@ -169,14 +178,5 @@
     "archivo": "f6fab279be3cd4b4.mp3",
     "bytes": 4161312,
     "timestamp": 1787578387
-  },
-  {
-    "id": "cdac1070dbf5664c",
-    "titulo": "Cuba, el asedio y los cooperadores necesarios",
-    "fuente": "Cuba – Rebelion",
-    "enlace": "https://rebelion.org/cuba-el-asedio-y-los-cooperadores-necesarios/",
-    "archivo": "cdac1070dbf5664c.mp3",
-    "bytes": 9276912,
-    "timestamp": 1787578341
   }
 ]

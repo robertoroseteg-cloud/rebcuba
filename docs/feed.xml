@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>«Estados Unidos asfixia al pueblo cubano porque se niega a arrodillarse»</title>
+      <description>Rebelión · Cuba — https://rebelion.org/estados-unidos-asfixia-al-pueblo-cubano-porque-se-niega-a-arrodillarse/</description>
+      <link>https://rebelion.org/estados-unidos-asfixia-al-pueblo-cubano-porque-se-niega-a-arrodillarse/</link>
+      <guid isPermaLink="false">b4aa638bbf21e61f</guid>
+      <pubDate>Fri, 30 Oct 2026 18:12:10 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/b4aa638bbf21e61f.mp3" length="13386096" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>La hora de Cuba en Naciones Unidas</title>
       <description>Rebelión · Cuba — https://rebelion.org/la-hora-de-cuba-en-naciones-unidas/</description>
       <link>https://rebelion.org/la-hora-de-cuba-en-naciones-unidas/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">f6fab279be3cd4b4</guid>
       <pubDate>Mon, 24 Aug 2026 13:33:07 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/f6fab279be3cd4b4.mp3" length="4161312" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Cuba, el asedio y los cooperadores necesarios</title>
-      <description>Cuba – Rebelion — https://rebelion.org/cuba-el-asedio-y-los-cooperadores-necesarios/</description>
-      <link>https://rebelion.org/cuba-el-asedio-y-los-cooperadores-necesarios/</link>
-      <guid isPermaLink="false">cdac1070dbf5664c</guid>
-      <pubDate>Mon, 24 Aug 2026 13:32:21 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/cdac1070dbf5664c.mp3" length="9276912" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
