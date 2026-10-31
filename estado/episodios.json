@@ -1,5 +1,23 @@
 [
   {
+    "id": "b04aff003a958f2c",
+    "titulo": "La impronta de Fidel Castro en la gestión pública en la sociedad cubana",
+    "fuente": "Rebelión · Cuba",
+    "enlace": "https://rebelion.org/la-impronta-de-fidel-castro-en-la-gestion-publica-en-la-sociedad-cubana/",
+    "archivo": "b04aff003a958f2c.mp3",
+    "bytes": 5194224,
+    "timestamp": 1793467425
+  },
+  {
+    "id": "377ccbbd2c911400",
+    "titulo": "Cuba ante la razón genocida (Parte I)",
+    "fuente": "Rebelión · Cuba",
+    "enlace": "https://rebelion.org/cuba-ante-la-razon-genocida-parte-i/",
+    "archivo": "377ccbbd2c911400.mp3",
+    "bytes": 9960912,
+    "timestamp": 1793467332
+  },
+  {
     "id": "b4aa638bbf21e61f",
     "titulo": "«Estados Unidos asfixia al pueblo cubano porque se niega a arrodillarse»",
     "fuente": "Rebelión · Cuba",
@@ -160,23 +178,5 @@
     "archivo": "e76fa79c5f4f2737.mp3",
     "bytes": 1656432,
     "timestamp": 1787664555
-  },
-  {
-    "id": "e93646d2cabaee91",
-    "titulo": "Cuba al límite: por qué Estados Unidos ahoga a la isla más que nunca",
-    "fuente": "Cuba – Rebelion",
-    "enlace": "https://rebelion.org/cuba-al-limite-por-que-estados-unidos-ahoga-a-la-isla-mas-que-nunca/",
-    "archivo": "e93646d2cabaee91.mp3",
-    "bytes": 3111840,
-    "timestamp": 1787664519
-  },
-  {
-    "id": "f6fab279be3cd4b4",
-    "titulo": "Fidel Castro: el líder en su centenario",
-    "fuente": "Cuba – Rebelion",
-    "enlace": "https://rebelion.org/fidel-castro-el-lider-en-su-centenario/",
-    "archivo": "f6fab279be3cd4b4.mp3",
-    "bytes": 4161312,
-    "timestamp": 1787578387
   }
 ]

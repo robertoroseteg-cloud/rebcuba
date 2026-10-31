@@ -8,6 +8,22 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>La impronta de Fidel Castro en la gestión pública en la sociedad cubana</title>
+      <description>Rebelión · Cuba — https://rebelion.org/la-impronta-de-fidel-castro-en-la-gestion-publica-en-la-sociedad-cubana/</description>
+      <link>https://rebelion.org/la-impronta-de-fidel-castro-en-la-gestion-publica-en-la-sociedad-cubana/</link>
+      <guid isPermaLink="false">b04aff003a958f2c</guid>
+      <pubDate>Sat, 31 Oct 2026 17:23:45 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/b04aff003a958f2c.mp3" length="5194224" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Cuba ante la razón genocida (Parte I)</title>
+      <description>Rebelión · Cuba — https://rebelion.org/cuba-ante-la-razon-genocida-parte-i/</description>
+      <link>https://rebelion.org/cuba-ante-la-razon-genocida-parte-i/</link>
+      <guid isPermaLink="false">377ccbbd2c911400</guid>
+      <pubDate>Sat, 31 Oct 2026 17:22:12 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/377ccbbd2c911400.mp3" length="9960912" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>«Estados Unidos asfixia al pueblo cubano porque se niega a arrodillarse»</title>
       <description>Rebelión · Cuba — https://rebelion.org/estados-unidos-asfixia-al-pueblo-cubano-porque-se-niega-a-arrodillarse/</description>
       <link>https://rebelion.org/estados-unidos-asfixia-al-pueblo-cubano-porque-se-niega-a-arrodillarse/</link>
@@ -150,22 +166,6 @@
       <guid isPermaLink="false">e76fa79c5f4f2737</guid>
       <pubDate>Tue, 25 Aug 2026 13:29:15 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/e76fa79c5f4f2737.mp3" length="1656432" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Cuba al límite: por qué Estados Unidos ahoga a la isla más que nunca</title>
-      <description>Cuba – Rebelion — https://rebelion.org/cuba-al-limite-por-que-estados-unidos-ahoga-a-la-isla-mas-que-nunca/</description>
-      <link>https://rebelion.org/cuba-al-limite-por-que-estados-unidos-ahoga-a-la-isla-mas-que-nunca/</link>
-      <guid isPermaLink="false">e93646d2cabaee91</guid>
-      <pubDate>Tue, 25 Aug 2026 13:28:39 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/e93646d2cabaee91.mp3" length="3111840" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Fidel Castro: el líder en su centenario</title>
-      <description>Cuba – Rebelion — https://rebelion.org/fidel-castro-el-lider-en-su-centenario/</description>
-      <link>https://rebelion.org/fidel-castro-el-lider-en-su-centenario/</link>
-      <guid isPermaLink="false">f6fab279be3cd4b4</guid>
-      <pubDate>Mon, 24 Aug 2026 13:33:07 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/f6fab279be3cd4b4.mp3" length="4161312" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
