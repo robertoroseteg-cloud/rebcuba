@@ -8,6 +8,22 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Lo que esconde el cartel de la embajada estadounidense</title>
+      <description>Rebelión · Cuba — https://rebelion.org/lo-que-esconde-el-cartel-de-la-embajada-estadounidense/</description>
+      <link>https://rebelion.org/lo-que-esconde-el-cartel-de-la-embajada-estadounidense/</link>
+      <guid isPermaLink="false">be71bbe5d184076f</guid>
+      <pubDate>Mon, 02 Nov 2026 21:52:11 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/be71bbe5d184076f.mp3" length="1343952" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>De la última broma macabra de Trump a la inmediata tarea de Marcos Rubio</title>
+      <description>Rebelión · Cuba — https://rebelion.org/de-la-ultima-broma-macabra-de-trump-a-la-inmediata-tarea-de-marcos-rubio/</description>
+      <link>https://rebelion.org/de-la-ultima-broma-macabra-de-trump-a-la-inmediata-tarea-de-marcos-rubio/</link>
+      <guid isPermaLink="false">0fcd169a226c72a6</guid>
+      <pubDate>Mon, 02 Nov 2026 21:52:02 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/0fcd169a226c72a6.mp3" length="1588320" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>La impronta de Fidel Castro en la gestión pública en la sociedad cubana</title>
       <description>Rebelión · Cuba — https://rebelion.org/la-impronta-de-fidel-castro-en-la-gestion-publica-en-la-sociedad-cubana/</description>
       <link>https://rebelion.org/la-impronta-de-fidel-castro-en-la-gestion-publica-en-la-sociedad-cubana/</link>
@@ -150,22 +166,6 @@
       <guid isPermaLink="false">245efb5ef7d805a3</guid>
       <pubDate>Thu, 27 Aug 2026 22:31:03 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/245efb5ef7d805a3.mp3" length="9254016" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Gaza 2.0</title>
-      <description>Cuba – Rebelion — https://rebelion.org/gaza-2-0/</description>
-      <link>https://rebelion.org/gaza-2-0/</link>
-      <guid isPermaLink="false">cc4696d15f3a90e4</guid>
-      <pubDate>Wed, 26 Aug 2026 13:34:23 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/cc4696d15f3a90e4.mp3" length="1179072" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Cuba, a pesar del imperialismo gringo</title>
-      <description>Cuba – Rebelion — https://rebelion.org/cuba-a-pesar-del-imperialismo-gringo/</description>
-      <link>https://rebelion.org/cuba-a-pesar-del-imperialismo-gringo/</link>
-      <guid isPermaLink="false">e76fa79c5f4f2737</guid>
-      <pubDate>Tue, 25 Aug 2026 13:29:15 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/e76fa79c5f4f2737.mp3" length="1656432" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>

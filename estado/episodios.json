@@ -1,5 +1,23 @@
 [
   {
+    "id": "be71bbe5d184076f",
+    "titulo": "Lo que esconde el cartel de la embajada estadounidense",
+    "fuente": "Rebelión · Cuba",
+    "enlace": "https://rebelion.org/lo-que-esconde-el-cartel-de-la-embajada-estadounidense/",
+    "archivo": "be71bbe5d184076f.mp3",
+    "bytes": 1343952,
+    "timestamp": 1793656331
+  },
+  {
+    "id": "0fcd169a226c72a6",
+    "titulo": "De la última broma macabra de Trump a la inmediata tarea de Marcos Rubio",
+    "fuente": "Rebelión · Cuba",
+    "enlace": "https://rebelion.org/de-la-ultima-broma-macabra-de-trump-a-la-inmediata-tarea-de-marcos-rubio/",
+    "archivo": "0fcd169a226c72a6.mp3",
+    "bytes": 1588320,
+    "timestamp": 1793656322
+  },
+  {
     "id": "b04aff003a958f2c",
     "titulo": "La impronta de Fidel Castro en la gestión pública en la sociedad cubana",
     "fuente": "Rebelión · Cuba",
@@ -160,23 +178,5 @@
     "archivo": "245efb5ef7d805a3.mp3",
     "bytes": 9254016,
     "timestamp": 1787869863
-  },
-  {
-    "id": "cc4696d15f3a90e4",
-    "titulo": "Gaza 2.0",
-    "fuente": "Cuba – Rebelion",
-    "enlace": "https://rebelion.org/gaza-2-0/",
-    "archivo": "cc4696d15f3a90e4.mp3",
-    "bytes": 1179072,
-    "timestamp": 1787751263
-  },
-  {
-    "id": "e76fa79c5f4f2737",
-    "titulo": "Cuba, a pesar del imperialismo gringo",
-    "fuente": "Cuba – Rebelion",
-    "enlace": "https://rebelion.org/cuba-a-pesar-del-imperialismo-gringo/",
-    "archivo": "e76fa79c5f4f2737.mp3",
-    "bytes": 1656432,
-    "timestamp": 1787664555
   }
 ]
