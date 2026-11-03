@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Nuestra humanidad común no puede tolerar el estrangulamiento del pueblo cubano</title>
+      <description>Rebelión · Cuba — https://rebelion.org/nuestra-humanidad-comun-no-puede-tolerar-el-estrangulamiento-del-pueblo-cubano/</description>
+      <link>https://rebelion.org/nuestra-humanidad-comun-no-puede-tolerar-el-estrangulamiento-del-pueblo-cubano/</link>
+      <guid isPermaLink="false">b7e87eb0cc17b929</guid>
+      <pubDate>Tue, 03 Nov 2026 19:43:37 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/b7e87eb0cc17b929.mp3" length="2126592" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Lo que esconde el cartel de la embajada estadounidense</title>
       <description>Rebelión · Cuba — https://rebelion.org/lo-que-esconde-el-cartel-de-la-embajada-estadounidense/</description>
       <link>https://rebelion.org/lo-que-esconde-el-cartel-de-la-embajada-estadounidense/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">2500d411c320d357</guid>
       <pubDate>Fri, 28 Aug 2026 22:32:14 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/2500d411c320d357.mp3" length="3484224" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Fidel, ciencia y soberanía</title>
-      <description>Cuba – Rebelion — https://rebelion.org/fidel-ciencia-y-soberania/</description>
-      <link>https://rebelion.org/fidel-ciencia-y-soberania/</link>
-      <guid isPermaLink="false">245efb5ef7d805a3</guid>
-      <pubDate>Thu, 27 Aug 2026 22:31:03 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/245efb5ef7d805a3.mp3" length="9254016" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>

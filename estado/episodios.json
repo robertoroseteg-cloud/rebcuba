@@ -1,5 +1,14 @@
 [
   {
+    "id": "b7e87eb0cc17b929",
+    "titulo": "Nuestra humanidad común no puede tolerar el estrangulamiento del pueblo cubano",
+    "fuente": "Rebelión · Cuba",
+    "enlace": "https://rebelion.org/nuestra-humanidad-comun-no-puede-tolerar-el-estrangulamiento-del-pueblo-cubano/",
+    "archivo": "b7e87eb0cc17b929.mp3",
+    "bytes": 2126592,
+    "timestamp": 1793735017
+  },
+  {
     "id": "be71bbe5d184076f",
     "titulo": "Lo que esconde el cartel de la embajada estadounidense",
     "fuente": "Rebelión · Cuba",
@@ -169,14 +178,5 @@
     "archivo": "2500d411c320d357.mp3",
     "bytes": 3484224,
     "timestamp": 1787956334
-  },
-  {
-    "id": "245efb5ef7d805a3",
-    "titulo": "Fidel, ciencia y soberanía",
-    "fuente": "Cuba – Rebelion",
-    "enlace": "https://rebelion.org/fidel-ciencia-y-soberania/",
-    "archivo": "245efb5ef7d805a3.mp3",
-    "bytes": 9254016,
-    "timestamp": 1787869863
   }
 ]
