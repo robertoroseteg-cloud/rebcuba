@@ -1,5 +1,14 @@
 [
   {
+    "id": "2203774498942a30",
+    "titulo": "Cuando la sanidad cubana humillaba a Estados Unidos",
+    "fuente": "Rebelión · Cuba",
+    "enlace": "https://rebelion.org/cuando-la-sanidad-cubana-humillaba-a-estados-unidos/",
+    "archivo": "2203774498942a30.mp3",
+    "bytes": 11257776,
+    "timestamp": 1793994161
+  },
+  {
     "id": "b7e87eb0cc17b929",
     "titulo": "Nuestra humanidad común no puede tolerar el estrangulamiento del pueblo cubano",
     "fuente": "Rebelión · Cuba",
@@ -169,14 +178,5 @@
     "archivo": "18850978e2fe8099.mp3",
     "bytes": 3539952,
     "timestamp": 1788022267
-  },
-  {
-    "id": "2500d411c320d357",
-    "titulo": "La defensa de Cuba y el socialismo",
-    "fuente": "Cuba – Rebelion",
-    "enlace": "https://rebelion.org/la-defensa-de-cuba-y-el-socialismo/",
-    "archivo": "2500d411c320d357.mp3",
-    "bytes": 3484224,
-    "timestamp": 1787956334
   }
 ]
