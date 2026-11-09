@@ -1,5 +1,14 @@
 [
   {
+    "id": "2c93f6718449534b",
+    "titulo": "Cuba frente al cerco de Washington",
+    "fuente": "Rebelión · Cuba",
+    "enlace": "https://rebelion.org/cuba-frente-al-cerco-de-washington/",
+    "archivo": "2c93f6718449534b.mp3",
+    "bytes": 1973088,
+    "timestamp": 1794263846
+  },
+  {
     "id": "7af2fb4b475943f6",
     "titulo": "Cuba ante la razón genocida (Parte II)",
     "fuente": "Rebelión · Cuba",
@@ -169,14 +178,5 @@
     "archivo": "f711e2592f6c1312.mp3",
     "bytes": 181152,
     "timestamp": 1792858542
-  },
-  {
-    "id": "9a5d3e8ce086946a",
-    "titulo": "Martí en la Revolución cubana",
-    "fuente": "Cuba – Rebelion",
-    "enlace": "https://rebelion.org/marti-en-la-revolucion-cubana/",
-    "archivo": "9a5d3e8ce086946a.mp3",
-    "bytes": 21738096,
-    "timestamp": 1788203682
   }
 ]

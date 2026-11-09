@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Cuba frente al cerco de Washington</title>
+      <description>Rebelión · Cuba — https://rebelion.org/cuba-frente-al-cerco-de-washington/</description>
+      <link>https://rebelion.org/cuba-frente-al-cerco-de-washington/</link>
+      <guid isPermaLink="false">2c93f6718449534b</guid>
+      <pubDate>Mon, 09 Nov 2026 22:37:26 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/2c93f6718449534b.mp3" length="1973088" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Cuba ante la razón genocida (Parte II)</title>
       <description>Rebelión · Cuba — https://rebelion.org/cuba-ante-la-razon-genocida-parte-ii/</description>
       <link>https://rebelion.org/cuba-ante-la-razon-genocida-parte-ii/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">f711e2592f6c1312</guid>
       <pubDate>Sat, 24 Oct 2026 16:15:42 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/f711e2592f6c1312.mp3" length="181152" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Martí en la Revolución cubana</title>
-      <description>Cuba – Rebelion — https://rebelion.org/marti-en-la-revolucion-cubana/</description>
-      <link>https://rebelion.org/marti-en-la-revolucion-cubana/</link>
-      <guid isPermaLink="false">9a5d3e8ce086946a</guid>
-      <pubDate>Mon, 31 Aug 2026 19:14:42 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/9a5d3e8ce086946a.mp3" length="21738096" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
