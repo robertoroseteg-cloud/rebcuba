@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>«La composición de la ANPP no es un espejo de la sociedad cubana actual»</title>
+      <description>Rebelión · Cuba — https://rebelion.org/la-composicion-de-la-anpp-no-es-un-espejo-de-la-sociedad-cubana-actual/</description>
+      <link>https://rebelion.org/la-composicion-de-la-anpp-no-es-un-espejo-de-la-sociedad-cubana-actual/</link>
+      <guid isPermaLink="false">209138280d982614</guid>
+      <pubDate>Thu, 12 Nov 2026 20:18:34 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/209138280d982614.mp3" length="6725520" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Cuba frente al cerco de Washington</title>
       <description>Rebelión · Cuba — https://rebelion.org/cuba-frente-al-cerco-de-washington/</description>
       <link>https://rebelion.org/cuba-frente-al-cerco-de-washington/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">eac3007dab4474ab</guid>
       <pubDate>Sat, 24 Oct 2026 16:17:10 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/eac3007dab4474ab.mp3" length="3212352" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Miserabilizar para someter: el recurso del método de EEUU hacia Cuba</title>
-      <description>Rebelión · Cuba — https://rebelion.org/miserabilizar-para-someter-el-recurso-del-metodo-de-eeuu-hacia-cuba/</description>
-      <link>https://rebelion.org/miserabilizar-para-someter-el-recurso-del-metodo-de-eeuu-hacia-cuba/</link>
-      <guid isPermaLink="false">f711e2592f6c1312</guid>
-      <pubDate>Sat, 24 Oct 2026 16:15:42 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcuba/episodios/f711e2592f6c1312.mp3" length="181152" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
